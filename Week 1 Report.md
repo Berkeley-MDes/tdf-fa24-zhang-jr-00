@@ -1,4 +1,4 @@
-# Week 1: Example Report 1 #
+# Week 1: Report 1 #
 ## Week of 09/01/2024
 
 This week, I completed Maker Courses related.
