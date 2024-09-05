@@ -19,3 +19,7 @@ And I also focused on learning the basics of Rhino and Grasshopper. I followed t
 
 <img width="500" alt="Learning Rhino" src="assets/W1 read tutorials.png">
 <img width="500" alt="Learning Rhino" src="assets/W1 grasshopper learning.png">
+
+In addition, I also try to 3d-printed a small model I made by Solidworks.
+
+
