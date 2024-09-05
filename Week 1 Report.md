@@ -10,3 +10,8 @@ And I also focused on learning the basics of Rhino and Grasshopper. I followed t
 
 <img width="500" alt="Learning Rhino" src="assets/W1 read tutorials.png">
 <img width="500" alt="Learning Rhino" src="assets/W1 grasshopper learning.png">
+
+Additionally, I also tried to 3d printed a model I built with Solidworks.
+
+<img width="500" alt="Learning Rhino" src="assets/W1 3d printing model.png">
+<img width="500" alt="Learning Rhino" src="assets/W1 3d printing.png">
