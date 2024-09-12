@@ -4,6 +4,7 @@
 ### 1. Understanding the structure and parameters
 
 This week, my focus is on gaining a foundational understanding of the logic and structure of Grasshopper. As a first step, I am analyzing the provided example to break down its components and workflow. This analysis helps me comprehend how different elements interact and how data flows within the system.
+The following four pictures record the process that I try to see how logic works in computing different modules, and how parameters influence the shape and feasibility of the design model.
 
 <img width="1000" alt="Learning Rhino" src="assets/W2 Understanding GH Structure 1.png">
 <img width="1000" alt="Learning Rhino" src="assets/W2 Understanding GH Structure 2.png">
