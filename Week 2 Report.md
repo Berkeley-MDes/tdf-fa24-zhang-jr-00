@@ -1,12 +1,9 @@
 # Week 2: Report 2 #
 ## Week of 09/07/2024
 
-###1. Understanding the structure and parameters
+### 1. Understanding the structure and parameters
 
-<img width="500" alt="Learning Make Courses" src="assets/W1 Maker Courses 1.png">
-<img width="500" alt="Learning Make Courses" src="assets/W1 Maker Courses 2.png">
-
-And I also focused on learning the basics of Rhino and Grasshopper. I followed the guidance provided, watching numerous videos to try out different functions within the software. 
+This week, my focus is on gaining a foundational understanding of the logic and structure of Grasshopper. As a first step, I am analyzing the provided example to break down its components and workflow. This analysis helps me comprehend how different elements interact and how data flows within the system.
 
 <img width="500" alt="Learning Rhino" src="assets/W1 read tutorials.png">
 <img width="500" alt="Learning Rhino" src="assets/W1 grasshopper learning.png">
