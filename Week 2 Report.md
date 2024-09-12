@@ -1,7 +1,7 @@
 # Week 2: Report 2 #
 ## Week of 09/07/2024
 
-###Understanding the structure and 
+###1. Understanding the structure and parameters
 
 <img width="500" alt="Learning Make Courses" src="assets/W1 Maker Courses 1.png">
 <img width="500" alt="Learning Make Courses" src="assets/W1 Maker Courses 2.png">
