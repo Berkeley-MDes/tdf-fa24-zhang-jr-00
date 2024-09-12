@@ -13,6 +13,7 @@ This week, my focus is on gaining a foundational understanding of the logic and 
 
 __A Short Summary__
 The basic principle of Grasshopper, as I understand it, begins with defining reference coordinates to construct basic geometric shapes such as spheres, planes, or cuboids. These steps can be grouped into smaller modules. By calling these modules and performing operations on them, we can generate more complex geometries. At the same time, various parameters, like those of a smartphone, are defined as adjustable inputs. These parameters serve as a foundation for further refining the complex assemblies and performing validations, such as gravity checks. Once the form is fully developed and passes the tests, we obtain the final product.
+<img width="1000" alt="Learning Rhino" src="assets/W2 Structure.png">
 
 ### 2. Built with Grasshopper
 I tried to test my understanding of Grasshopper. So I tried to built two other forms of Phone Stand.
