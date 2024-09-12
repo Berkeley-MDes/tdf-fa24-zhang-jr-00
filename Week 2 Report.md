@@ -20,4 +20,4 @@ The first one is built based on cylinder.
 <img width="1000" alt="Learning Rhino" src="assets/W2 Cylinder Model3.png">
 
 The second one is built based on Cone.
-<img width="1000" alt="Learning Rhino" src="assets/W2 Cone Model1.png">
+<img width="1000" alt="Learning Rhino" src="assets/W2 Cone model1.png">
