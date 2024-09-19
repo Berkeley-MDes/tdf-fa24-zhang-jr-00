@@ -11,9 +11,9 @@ Below are the final results of this week's work.
 ## 1.1 How to build diverse, lively vase in Grasshopper with JUST ONE DIAGRAM
 Please refer to my vedio this week. From 00:29-2:18, I showed the whole process of building the diagram, changing parameters, debuging, and the example work baked with this diagram.
 [![Building diverse vases in one diagram](https://i.ytimg.com/vi/Nf5V7YvgKI0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Nf5V7YvgKI0&t=1s "Building diverse vases in one diagram")
-<img width="1000" alt="Learning Rhino" src="assets/W3 Dia1.png">
-<img width="1000" alt="Learning Rhino" src="assets/W3 Dia2.png">
-<img width="1000" alt="Learning Rhino" src="assets/W3 Dia3.png">
+<img width="500" alt="Learning Rhino" src="assets/W3 Dia1.png">
+<img width="500" alt="Learning Rhino" src="assets/W3 Dia2.png">
+<img width="500" alt="Learning Rhino" src="assets/W3 Dia3.png">
 
 
 ### 2. Speculations
