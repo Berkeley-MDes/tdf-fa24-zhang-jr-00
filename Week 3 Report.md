@@ -14,6 +14,7 @@ Please refer to my vedio this week. From 00:29-2:18, I showed the whole process 
 <img width="500" alt="Learning Rhino" src="assets/W3 Dia1.png">
 <img width="500" alt="Learning Rhino" src="assets/W3 Dia2.png">
 <img width="500" alt="Learning Rhino" src="assets/W3 Dia3.png">
+
 The three pictures above show some details of the grasshopper diagram. The main process is: Defining base point and vase direction(Z axis), creating circles, managing points for shifting and scaling, and finnaly built meshes with our arranged points.
 
 ## 1.2 Exploring eco-friendly and time-saving 3d printing
