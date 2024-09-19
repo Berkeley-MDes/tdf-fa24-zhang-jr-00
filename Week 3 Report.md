@@ -14,7 +14,14 @@ Please refer to my vedio this week. From 00:29-2:18, I showed the whole process 
 <img width="500" alt="Learning Rhino" src="assets/W3 Dia1.png">
 <img width="500" alt="Learning Rhino" src="assets/W3 Dia2.png">
 <img width="500" alt="Learning Rhino" src="assets/W3 Dia3.png">
+The three pictures above show some details of the grasshopper diagram. The main process is: Defining base point and vase direction(Z axis), creating circles, managing points for shifting and scaling, and finnaly built meshes with our arranged points.
 
+## 1.2 Exploring eco-friendly and time-saving 3d printing
+<img width="1000" alt="Learning Rhino" src="assets/W3 3d-1.jpg">
+<img width="1000" alt="Learning Rhino" src="assets/W3 3d-2.jpg">
+<img width="1000" alt="Learning Rhino" src="assets/W3 3d-3.jpg">
+<img width="1000" alt="Learning Rhino" src="assets/W3 3d-4.jpg">
+<img width="1000" alt="Learning Rhino" src="assets/W3 3d-5.jpg">
 
 ### 2. Speculations
 I anticipate further exploring how Grasshopper can expand the scope of personalized designs by introducing more complex functions and parameters. I also plan to investigate how different materials and 3D printing methods might further reduce environmental impact. Additionally, I aim to research industry trends in sustainable design and 3D printing to apply them to future iterations of this project. 
