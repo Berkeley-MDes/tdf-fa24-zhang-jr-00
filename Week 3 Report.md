@@ -20,6 +20,10 @@ The three pictures above show some details of the grasshopper diagram. The main 
 ## 1.2 Exploring eco-friendly and time-saving 3d printing
 <img width="1000" alt="Learning Rhino" src="assets/W3 3d-1.jpg">
 <img width="1000" alt="Learning Rhino" src="assets/W3 3d-2.jpg">
+
+The above two pictures showed my first try of the 3d printing with auto-genertaed support. It took 11 hours long, and lots of support. Its printing direction is from the open end of the vase to the closed end. Quiet strange with logic. I think the "auto-genertaed" support overestimate the constructive danger. It's not as intelligent as human brain for understanding physics currently.
+
+So I tried another time, which used very very little support, and choose the printing direction from bottom to above. The following 3 pictures showed this process.
 <img width="1000" alt="Learning Rhino" src="assets/W3 3d-3.jpg">
 <img width="1000" alt="Learning Rhino" src="assets/W3 3d-4.jpg">
 <img width="1000" alt="Learning Rhino" src="assets/W3 3d-5.jpg">
