@@ -4,11 +4,8 @@
 
 This week, I learned to use Rhino and Grasshopper to explore parametric design principles, particularly focusing on organic shapes and fluidity. The use of Grasshopper enabled me to adjust parameters dynamically, allowing for multiple variations of the vase form. I also assessed the environmental advantages of using minimal support in 3D printing, which significantly reduces material waste and production time. The project is progressing well, and I am still keeping exploring the 3D printing process to optimize for efficiency.
 
-<img width="1000" alt="Learning Rhino" src="assets/W2 Understanding GH Structure 1.png">
-<img width="1000" alt="Learning Rhino" src="assets/W2 Understanding GH Structure 2.png">
-<img width="1000" alt="Learning Rhino" src="assets/W2 Understanding GH Structure 3.png">
-<img width="1000" alt="Learning Rhino" src="assets/W2 Understanding GH Structure 4.png">
-<img width="1000" alt="Learning Rhino" src="assets/W2 checking rationality.png">
+<img width="1000" alt="Learning Rhino" src="assets/W3 results 1.jpg">
+<img width="1000" alt="Learning Rhino" src="assets/W3 results 2.jpg">
 
 
 __A Short Summary__
