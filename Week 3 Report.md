@@ -1,11 +1,9 @@
 # Week 3: Report 3 #
 ## Week of 09/18/2024
 
-### 1. Understanding the structure and parameters
+### 1. Reflections
 
-This week, my focus is on gaining a foundational understanding of the logic and structure of Grasshopper. As a first step, I am analyzing the provided example to break down its components and workflow. This analysis helps me comprehend how different elements interact and how data flows within the system.
-
-The following four pictures record the process that I try to see how logic works in computing different modules, and how parameters influence the shape and feasibility of the design model.
+This week, I learned to use Rhino and Grasshopper to explore parametric design principles, particularly focusing on organic shapes and fluidity. The use of Grasshopper enabled me to adjust parameters dynamically, allowing for multiple variations of the vase form. I also assessed the environmental advantages of using minimal support in 3D printing, which significantly reduces material waste and production time. The project is progressing well, and I am still keeping exploring the 3D printing process to optimize for efficiency.
 
 <img width="1000" alt="Learning Rhino" src="assets/W2 Understanding GH Structure 1.png">
 <img width="1000" alt="Learning Rhino" src="assets/W2 Understanding GH Structure 2.png">
