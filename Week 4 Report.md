@@ -17,7 +17,7 @@ I divided the whole system into four parts, and this network map shows how **inf
 - **Apps & Cloud**: The apps (Fitness, Sleep Tracking, Mental Health) and cloud platforms process, analyze, and store the data collected by the devices. They generate actionable insights, trends, and reports for users, healthcare providers, and other stakeholders. Edge computing models might also be utilized to process data locally, ensuring faster insights.
 - **Stakeholders**: Users receive feedback directly from apps and devices, while healthcare providers and personal trainers can access comprehensive health reports via the cloud, offering expert feedback on the user's health and fitness.
 
-This map also shows how **Feedback Loops** operate within this system:
+This map also shows how **feedback loops** operate within this system:
 - **User and Devices**: Users receive immediate feedback from apps (e.g., fitness progress, sleep analysis, mental health insights), allowing them to adjust their behavior (e.g., activity levels, sleep patterns) in real-time. The devices themselves adapt, updating goals based on past performance.
 - **Healthcare Providers and Service Providers**: Providers receive health reports from the cloud and deliver professional feedback to users, influencing future health decisions, goals, and personalized plans. Personal trainers can also adjust workout routines based on the data.
 - **Devices and Apps**: Feedback from apps can influence device functionality. For instance, if a fitness app detects a user’s health risk from ECG data, it might trigger real-time notifications on the user’s smartwatch.
