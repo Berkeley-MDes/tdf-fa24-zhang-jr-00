@@ -25,4 +25,7 @@ This map outlines a well-structured ecosystem consisting of stakeholders, apps &
 I chose to focus on Health & Fitness Wearables for two main reasons:
 
 **Tech-driven Market**: The health & fitness wearable sector is expanding rapidly, driven by technological advancements, making it an exciting area for research and development.
+
 **Social Impact**: These wearables have the potential to make healthcare more accessible, promoting better health habits and improving social equity by providing insights that were previously limited to professional medical environments.
+
+For future steps, I anticipate that I will dive deeper into specific applications of health and fitness wearables, exploring how advanced features like AI-driven analytics and personalized health coaching can be integrated. This ecosystem could revolutionize the way healthcare is delivered by making continuous monitoring and preventive care more accessible, shifting the focus from reactive to proactive health management. By empowering individuals with real-time health data, it could reduce the burden on healthcare systems and enable earlier intervention. This would especially benefit underserved populations, making health insights more accessible and contributing to greater social equity.
