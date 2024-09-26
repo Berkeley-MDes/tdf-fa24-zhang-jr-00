@@ -2,11 +2,12 @@
 ## Week of 09/19-09/26
 ### 1. Reflections
 
-This week, I learned to use Rhino and Grasshopper to explore parametric design principles, particularly focusing on organic shapes and fluidity. The use of Grasshopper enabled me to adjust parameters dynamically, allowing for multiple variations of the vase form. I also assessed the environmental advantages of using minimal support in 3D printing, which significantly reduces material waste and production time. The project is progressing well, and I am still keeping exploring the 3D printing process to optimize for efficiency.
+This week, I successfully completed the final report for Project 1, where I iterated several versions to refine it and ensure it was perfect. After carefully reviewing the feedback and improving the structure, the project has reached a level of quality that meets all the objectives.
 
-Below are the final results of this week's work.
+Following this, I transitioned to a new section focusing on Ecosystems, where I began exploring the Health & Fitness Wearable Ecosystems.
+Below are the concept map of it
 <img width="1000" alt="Learning Rhino" src="assets/W4 map.png">
-Your map outlines a well-structured ecosystem consisting of stakeholders, apps & cloud platforms, devices, and sensors, illustrating how data flows between these components. Here's a short write-up explaining how this ecosystem works with a focus on **information flow** and **feedback loops**:
+This map outlines a well-structured ecosystem consisting of stakeholders, apps & cloud platforms, devices, and sensors, illustrating how data flows between these components. Here's a short write-up explaining how this ecosystem works with a focus on **information flow** and **feedback loops**:
 
 #### Information Flow:
 - **Sensors & Information Sources**: The core of the system relies on various sensors like PPG, ECG, IMU, and more. These sensors collect physiological data (e.g., heart rate, blood oxygen saturation, body composition) as well as motion, location, and environmental data (e.g., steps, altitude).
