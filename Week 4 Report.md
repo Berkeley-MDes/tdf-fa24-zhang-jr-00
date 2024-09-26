@@ -4,10 +4,10 @@
 
 This week, I successfully completed the final report for Project 1, where I iterated several versions to refine it and ensure it was perfect. After carefully reviewing the feedback and improving the structure, the project has reached a level of quality that meets all the objectives.
 
-Following this, I transitioned to a new section focusing on Ecosystems, where I began exploring the Health & Fitness Wearable Ecosystems.
-Below are the concept map of it
+Following this, I transitioned to a new section focusing on Ecosystems, where I began exploring the **Health & Fitness Wearable Ecosystems**.
+Below are the concept map of it.
 <img width="1000" alt="Learning Rhino" src="assets/W4 map.png">
-This map outlines a well-structured ecosystem consisting of stakeholders, apps & cloud platforms, devices, and sensors, illustrating how data flows between these components. Here's a short write-up explaining how this ecosystem works with a focus on **information flow** and **feedback loops**:
+This map outlines a well-structured ecosystem consisting of stakeholders, apps & cloud platforms, devices, and sensors, illustrating how data flows between these components.
 
 #### Information Flow:
 - **Sensors & Information Sources**: The core of the system relies on various sensors like PPG, ECG, IMU, and more. These sensors collect physiological data (e.g., heart rate, blood oxygen saturation, body composition) as well as motion, location, and environmental data (e.g., steps, altitude).
@@ -22,4 +22,7 @@ This map outlines a well-structured ecosystem consisting of stakeholders, apps &
 
 
 ### 2. Speculations
-I anticipate further exploring how Grasshopper can expand the scope of personalized designs by introducing more complex functions and parameters. I also plan to investigate how different materials and 3D printing methods might further reduce environmental impact. Additionally, I aim to research industry trends in sustainable design and 3D printing to apply them to future iterations of this project. 
+I chose to focus on Health & Fitness Wearables for two main reasons:
+
+**Tech-driven Market**: The health & fitness wearable sector is expanding rapidly, driven by technological advancements, making it an exciting area for research and development.
+**Social Impact**: These wearables have the potential to make healthcare more accessible, promoting better health habits and improving social equity by providing insights that were previously limited to professional medical environments.
