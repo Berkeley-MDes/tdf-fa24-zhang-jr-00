@@ -5,9 +5,11 @@
 This week, I successfully completed the final report for Project 1, where I iterated several versions to refine it and ensure it was perfect. After carefully reviewing the feedback and improving the structure, the project has reached a level of quality that meets all the objectives.
 
 Following this, I transitioned to a new section focusing on Ecosystems, where I began exploring the **Health & Fitness Wearable Ecosystems**.
-Below are the concept map of it.
+
+Below are the network map of it.This map outlines a well-structured ecosystem consisting of stakeholders, apps & cloud platforms, devices, and sensors, illustrating how data flows between these components.
+
 <img width="1000" alt="Learning Rhino" src="assets/W4 map.png">
-This map outlines a well-structured ecosystem consisting of stakeholders, apps & cloud platforms, devices, and sensors, illustrating how data flows between these components.
+
 
 #### Information Flow:
 - **Sensors & Information Sources**: The core of the system relies on various sensors like PPG, ECG, IMU, and more. These sensors collect physiological data (e.g., heart rate, blood oxygen saturation, body composition) as well as motion, location, and environmental data (e.g., steps, altitude).
