@@ -8,4 +8,4 @@ Welcome to your new GitHub repository!
 
 [Week 3](https://github.com/Berkeley-MDes/tdf-fa24-zhang-jr-00/blob/main/Week%203%20Report.md)
 
-[Week 4](Week 4 Report.md)
+[Week 4](https://github.com/Berkeley-MDes/tdf-fa24-zhang-jr-00/blob/main/Week%204%20Report.md)
