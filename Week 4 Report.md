@@ -8,7 +8,7 @@ Following this, I transitioned to a new section focusing on Ecosystems, where I 
 
 Below are the network map of it.This map outlines a well-structured ecosystem consisting of stakeholders, apps & cloud platforms, devices, and sensors, illustrating how data flows between these components.
 
-<img width="1000" alt="Learning Rhino" src="assets/W4 map.png">
+<img width="1000" alt="Learning Rhino" src="assets/W4 Health wearable Ecosystem.png">
 
 I divided the whole system into four parts, and this network map shows how **information flows** among them:
 
