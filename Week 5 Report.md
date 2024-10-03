@@ -32,8 +32,8 @@ This week was my first experience working with the Photon 2 IoT system, and it r
    The following pictures show how I make the circuit more simple. And I tested the system with both green LED and red LED.
    
    Here is a video link of how the whole system works.
-   <iframe width="560" height="315" src="https://youtube.com/shorts/PtWXePgDtTs?feature=share" frameborder="0" allowfullscreen></iframe>
-   [![Video Preview](assets/Week5/1-greenLED.jpg)](https://youtube.com/shorts/PtWXePgDtTs?feature=share)
+[![Video Preview](./assets/Week5/1-greenLED.jpg)](https://youtube.com/shorts/PtWXePgDtTs?feature=share)
+
    
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-simplified circuit.jpg">
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-greenLED.jpg">
