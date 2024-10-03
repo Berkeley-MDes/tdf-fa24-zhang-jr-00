@@ -6,18 +6,23 @@ This week was my first experience working with the Photon 2 IoT system, and it r
 
 1. **Simplified Circuit Design:**  
    After analyzing the original circuit, I quickly identified ways to make the design more streamlined and efficient. By simplifying the circuit, I was able to reduce complexity and potential points of failure, significantly improving the overall functionality of the hardware.
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse.png">
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse - simplified.png">
+   
 
-2. **Button Replacement and Knowledge Sharing:**  
+3. **Button Replacement and Knowledge Sharing:**  
    I took the initiative to study the mechanics of different types of buttons. By replacing the 4-leg button with a more efficient 2-leg button, I enhanced the hardware design. Furthermore, I didn’t stop there—I shared this newfound knowledge with classmates, teaching them how to make similar improvements to their projects.
 
-   <img width="500" alt="Learning Rhino" src="assets/Week5/1-button digram.jpg">
-   This diagram shows clearly the circuit of 4-leg button. I use this to understand how it works, and find a way to use 2-leg button to replace it.
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-button digram.jpg">
+   
+   The above diagram shows clearly the circuit of 4-leg button. I use this to understand how it works, and find a way to use 2-leg button to replace it.
 
 4. **Code Optimization and Debugging:**  
    Instead of simply copying the provided code, I invested time in understanding how it worked and identifying areas for improvement. I added a serial print function to the code, which made debugging much more efficient and effective. This enhancement helped me quickly resolve issues during testing and contributed to the overall success of the project.
    
-   <img width="600" alt="Learning Rhino" src="assets/Week5/1-adding debuging serial information.png">
-   This screenshot shows how I use serial function to check whether my serial printer is working and whether the device detect it when I press the button.
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-adding debuging serial information.png">
+   
+   The above screenshot shows how I use serial function to check whether my serial printer is working and whether the device detect it when I press the button.
 
 Now I'm going to present the some images and videos for my three projects.
 
