@@ -30,11 +30,10 @@ This week was my first experience working with the Photon 2 IoT system, and it r
 #### 1.1 button_led_pulse
 
    The following pictures show how I make the circuit more simple. And I tested the system with both green LED and red LED.
-   **You can press the green-LED image to watch the full video.**
+   **You can press [here](https://youtube.com/shorts/PtWXePgDtTs?feature=share) to watch the full video.**
    
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-simplified circuit.jpg">
-   [![Video Preview](./assets/Week5/1-greenLED.jpg)](https://youtube.com/shorts/PtWXePgDtTs?feature=share)
-
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-greenLED.jpg">
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-redLED.jpg">
 
 #### 1.2 fsr_to_ledcolor
