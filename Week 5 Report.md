@@ -10,14 +10,14 @@ This week was my first experience working with the Photon 2 IoT system, and it r
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse.png">
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse - simplified.png">
 
-3. **Button Replacement and Knowledge Sharing:**  
+2. **Button Replacement and Knowledge Sharing:**  
    I took the initiative to study the mechanics of different types of buttons. By replacing the 4-leg button with a more efficient 2-leg button, I enhanced the hardware design. Furthermore, I didn’t stop there—I shared this newfound knowledge with classmates, teaching them how to make similar improvements to their projects.
 
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-button digram.jpg">
    
    The above diagram shows clearly the circuit of 4-leg button. I use this to understand how it works, and find a way to use 2-leg button to replace it.
 
-4. **Code Optimization and Debugging:**  
+3. **Code Optimization and Debugging:**  
    Instead of simply copying the provided code, I invested time in understanding how it worked and identifying areas for improvement. I added a serial print function to the code, which made debugging much more efficient and effective. This enhancement helped me quickly resolve issues during testing and contributed to the overall success of the project.
    
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-adding debuging serial information.png">
@@ -33,6 +33,7 @@ This week was my first experience working with the Photon 2 IoT system, and it r
    
    Here is a video link of how the whole system works.
    <iframe width="560" height="315" src="https://youtube.com/shorts/PtWXePgDtTs?feature=share" frameborder="0" allowfullscreen></iframe>
+   [![Video Preview](assets/Week5/1-greenLED.jpg)](https://youtube.com/shorts/PtWXePgDtTs?feature=share)
    
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-simplified circuit.jpg">
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-greenLED.jpg">
