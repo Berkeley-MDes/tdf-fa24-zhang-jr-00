@@ -39,10 +39,4 @@ This map also shows how **feedback loops** operate within this system:
 
 
 ### 2. Speculations
-I chose to focus on Health & Fitness Wearables for two main reasons:
-
-**Tech-driven Market**: The health & fitness wearable sector is expanding rapidly, driven by technological advancements, making it an exciting area for research and development.
-
-**Social Impact**: These wearables have the potential to make healthcare more accessible, promoting better health habits and improving social equity by providing insights that were previously limited to professional medical environments.
-
-For future steps, I anticipate that I will dive deeper into specific applications of health and fitness wearables, exploring how advanced features like AI-driven analytics and personalized health coaching can be integrated. This ecosystem could revolutionize the way healthcare is delivered by making continuous monitoring and preventive care more accessible, shifting the focus from reactive to proactive health management. By empowering individuals with real-time health data, it could reduce the burden on healthcare systems and enable earlier intervention. This would especially benefit underserved populations, making health insights more accessible and contributing to greater social equity.
+Looking ahead, I plan to further enhance my understanding of the Photon 2 IoT system by exploring more advanced features such as sensor integration and cloud-based data logging. One direction I foresee for future projects is leveraging real-time data analytics from the sensors connected to the system, which could be crucial for expanding into more complex IoT applications. Additionally, I would like to explore more efficient ways to configure the Photon 2 board and streamline the setup process to save time for myself and others. For instance, automating the network connection steps could reduce the effort required for IoT deployment. Another area of interest involves delving deeper into version management within VS Code and ensuring compatibility with the Photon 2 system. I also see value in creating tutorials or reference guides to help classmates and other learners overcome common challenges, such as configuration and debugging, which I experienced firsthand. 
