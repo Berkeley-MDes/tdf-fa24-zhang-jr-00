@@ -19,7 +19,8 @@ Now I'm going to present the process of how I realize the three projects.
 
 asas
 
-<img width="1000" alt="Learning Rhino" src="assets/Week5/W4 Health wearable Ecosystem.png">
+<img width="1000" alt="Learning Rhino" src="assets/Week5/1-adding debugging serial information.png">
+
 
 #### 1.2 fsr_to_ledcolor
 
