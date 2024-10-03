@@ -7,8 +7,8 @@ This week was my first experience working with the Photon 2 IoT system, and it r
 1. **Simplified Circuit Design:**  
    After analyzing the original circuit, I quickly identified ways to make the design more streamlined and efficient. By simplifying the circuit, I was able to reduce complexity and potential points of failure, significantly improving the overall functionality of the hardware. The following two diagrams shows how I simplify the circuit design.
    
-   <img width="500" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse.png">
-   <img width="500" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse - simplified.png">
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse.png">
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse - simplified.png">
 
 3. **Button Replacement and Knowledge Sharing:**  
    I took the initiative to study the mechanics of different types of buttons. By replacing the 4-leg button with a more efficient 2-leg button, I enhanced the hardware design. Furthermore, I didn’t stop there—I shared this newfound knowledge with classmates, teaching them how to make similar improvements to their projects.
@@ -20,8 +20,8 @@ This week was my first experience working with the Photon 2 IoT system, and it r
 4. **Code Optimization and Debugging:**  
    Instead of simply copying the provided code, I invested time in understanding how it worked and identifying areas for improvement. I added a serial print function to the code, which made debugging much more efficient and effective. This enhancement helped me quickly resolve issues during testing and contributed to the overall success of the project.
    
-   <img width="500" alt="Learning Rhino" src="assets/Week5/1-adding debuging serial information.png">
-   <img width="800" alt="Learning Rhino" src="assets/Week5/1-debug with serial print.png">
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-adding debuging serial information.png">
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-debug with serial print.png">
    
    The above screenshots show how I use serial function to check whether my serial printer is working and whether the device detect it when I press the button.
 
@@ -29,7 +29,10 @@ This week was my first experience working with the Photon 2 IoT system, and it r
 
 #### 1.1 button_led_pulse
 
-   The following pictures show how I make the circuit more simple. And I tested the system with both green LED and red LED.\
+   The following pictures show how I make the circuit more simple. And I tested the system with both green LED and red LED.
+   
+   Here is a video link of how the whole system works.
+   <iframe width="560" height="315" src="https://youtube.com/shorts/PtWXePgDtTs?feature=share" frameborder="0" allowfullscreen></iframe>
    
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-simplified circuit.jpg">
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-greenLED.jpg">
@@ -51,8 +54,7 @@ I am proud of how quickly I was able to learn the necessary concepts and apply t
 
 This experience has significantly deepened my understanding of IoT systems and their components, particularly in relation to hardware-software integration and debugging.
 
-<img width="1000" alt="Learning Rhino" src="assets/W4 Health wearable Ecosystem.png">
-<iframe width="560" height="315" src="https://youtube.com/shorts/PtWXePgDtTs?feature=share" frameborder="0" allowfullscreen></iframe>
+
 
 
 ### 2. Speculations
