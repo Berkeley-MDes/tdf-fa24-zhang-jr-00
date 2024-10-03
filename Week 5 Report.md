@@ -2,7 +2,7 @@
 ## Week of 09/26-10/03
 ### 1. Reflections
 
-This week, I successfully completed the final report for Project 1, where I iterated several versions to refine it and ensure it was perfect. After carefully reviewing the feedback and improving the structure, the project has reached a level of quality that meets all the objectives.
+This week marked my first time using the Photon 2 IoT system. Throughout the learning process, I followed the guidance provided and successfully completed three functions as per the project requirements. The most significant improvements I made were to the circuit design, which I simplified to make it more efficient. Additionally, I took the initiative to study the theory behind buttons and replaced a 4-leg button with a 2-leg one, enhancing the hardware design. I even helped some of my classmates implement this change. On the software side, I optimized the code by incorporating serial print functions for debugging, which made troubleshooting more effective. The main challenge I faced was related to the initial setup of the Photon 2 board. The lack of clear guidance, coupled with configuration difficulties, required significant time and effort. Issues arose from multiple areas such as kit components, VS Code, version compatibility, and IoT network connection problems. However, I persisted through these difficulties and successfully completed my tasks. This experience has deepened my understanding of IoT systems, debugging methods, and hardware-software integration.
 
 Following this, I transitioned to a new section focusing on Ecosystems, where I began exploring the **Health & Fitness Wearable Ecosystems**.
 
