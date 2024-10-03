@@ -25,19 +25,15 @@ This week was my first experience working with the Photon 2 IoT system, and it r
    
    The above screenshots show how I use serial function to check whether my serial printer is working and whether the device detect it when I press the button.
 
-Now I'm going to present the some images and videos for my three projects.
+   Now I'm going to present the some images and videos for my three projects.
 
 #### 1.1 button_led_pulse
 
+   The following pictures show how I make the circuit more simple. And I tested the system with both green LED and red LED.\
+   
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-simplified circuit.jpg">
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-greenLED.jpg">
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-redLED.jpg">
-
-   
-   
-
-
-
 
 #### 1.2 fsr_to_ledcolor
 
