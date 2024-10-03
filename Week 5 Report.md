@@ -25,18 +25,5 @@ Below are the network map of it.This map outlines a well-structured ecosystem co
 <iframe width="560" height="315" src="https://youtube.com/shorts/PtWXePgDtTs?feature=share" frameborder="0" allowfullscreen></iframe>
 
 
-I divided the whole system into four parts, and this network map shows how **information flows** among them:
-
-- **Sensors & Information Sources**: The system relies on various sensors like PPG, ECG, IMU, and more. These sensors collect physiological data (e.g., heart rate, blood oxygen saturation, body composition), as well as motion, location, and environmental data (e.g., steps, altitude). Additionally, users can report their nutrition intake, etc., as an additional information source.
-- **Devices**: Advanced wearables, such as smartwatches, smart rings, smart earbuds, and EEG headsets, capture data from the sensors. These devices act as intermediaries, sending raw or processed data to the **Apps & Cloud** for further analysis.
-- **Apps & Cloud**: The apps (Fitness, Sleep Tracking, Mental Health) and cloud platforms process, analyze, and store the data collected by the devices. They generate actionable insights, trends, and reports for users, healthcare providers, and other stakeholders. Edge computing models might also be utilized to process data locally, ensuring faster insights.
-- **Stakeholders**: Users receive feedback directly from apps and devices, while healthcare providers and personal trainers can access comprehensive health reports via the cloud, offering expert feedback on the user's health and fitness.
-
-This map also shows how **feedback loops** operate within this system:
-- **User and Devices**: Users receive immediate feedback from apps (e.g., fitness progress, sleep analysis, mental health insights), allowing them to adjust their behavior (e.g., activity levels, sleep patterns) in real-time. The devices themselves adapt, updating goals based on past performance.
-- **Healthcare Providers and Service Providers**: Providers receive health reports from the cloud and deliver professional feedback to users, influencing future health decisions, goals, and personalized plans. Personal trainers can also adjust workout routines based on the data.
-- **Devices and Apps**: Feedback from apps can influence device functionality. For instance, if a fitness app detects a user’s health risk from ECG data, it might trigger real-time notifications on the user’s smartwatch.
-
-
 ### 2. Speculations
 Looking ahead, I plan to further enhance my understanding of the Photon 2 IoT system by exploring more advanced features such as sensor integration and cloud-based data logging. One direction I foresee for future projects is leveraging real-time data analytics from the sensors connected to the system, which could be crucial for expanding into more complex IoT applications. Additionally, I would like to explore more efficient ways to configure the Photon 2 board and streamline the setup process to save time for myself and others. For instance, automating the network connection steps could reduce the effort required for IoT deployment. Another area of interest involves delving deeper into version management within VS Code and ensuring compatibility with the Photon 2 system. I also see value in creating tutorials or reference guides to help classmates and other learners overcome common challenges, such as configuration and debugging, which I experienced firsthand. 
