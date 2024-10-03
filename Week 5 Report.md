@@ -43,7 +43,7 @@ Now I'm going to present the some images and videos for my three projects.
 
 #### 1.2 fsr_to_ledcolor
 
-   In this project, I first learned how RGB LED works. Then I designed the circuit, uploading the code and successfully run it!
+   In this project, I first learned how RGB LED works. Then I designed the circuit, uploading the code and successfully run it! The color is changing! So beautiful!
    **You can press [here](https://youtube.com/shorts/fe86Xr1i_4M?feature=share) to watch the full video.**
       
    <img width="1000" alt="Learning Rhino" src="assets/Week5/2-RGB-LED-diagram.jpg">
@@ -53,7 +53,7 @@ Now I'm going to present the some images and videos for my three projects.
 
 #### 1.3 basic_button_soc
 
-   The following picture shows how my circuit looks like and the related information from serial printer.
+   The following picture shows how my circuit looks like and the related information from serial printer. When I pressed the button, the system can detect it and gave me feedback with serial monitor.
    **You can press [here](https://youtube.com/shorts/Cfe_3X23axM?feature=share) to watch the full video.**
       
    <img width="1000" alt="Learning Rhino" src="assets/Week5/3-circuit.jpg">
