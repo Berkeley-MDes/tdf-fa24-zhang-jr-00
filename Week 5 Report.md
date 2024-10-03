@@ -5,10 +5,9 @@
 This week was my first experience working with the Photon 2 IoT system, and it required both quick learning and considerable effort to achieve a high-quality outcome. I didn’t just follow the provided instructions—I took extra steps to enhance both the hardware and software components. Here is a detailed breakdown of my contributions and improvements:
 
 1. **Simplified Circuit Design:**  
-   After analyzing the original circuit, I quickly identified ways to make the design more streamlined and efficient. By simplifying the circuit, I was able to reduce complexity and potential points of failure, significantly improving the overall functionality of the hardware.
+   After analyzing the original circuit, I quickly identified ways to make the design more streamlined and efficient. By simplifying the circuit, I was able to reduce complexity and potential points of failure, significantly improving the overall functionality of the hardware. The following two diagrams shows how I simplify the circuit design.
    <img width="500" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse.png">
    <img width="500" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse - simplified.png">
-   
 
 3. **Button Replacement and Knowledge Sharing:**  
    I took the initiative to study the mechanics of different types of buttons. By replacing the 4-leg button with a more efficient 2-leg button, I enhanced the hardware design. Furthermore, I didn’t stop there—I shared this newfound knowledge with classmates, teaching them how to make similar improvements to their projects.
