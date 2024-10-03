@@ -23,9 +23,11 @@ This week was my first experience working with the Photon 2 IoT system, and it r
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-adding debuging serial information.png">
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-debug with serial print.png">
    
-   The above screenshots show how I use serial function to check whether my serial printer is working and whether the device detect it when I press the button.
+   The above screenshots show how I use serial function to check whether my serial printer is working and whether the device detect it when I press the button. 
 
-   Now I'm going to present the some images and videos for my three projects.
+
+
+Now I'm going to present the some images and videos for my three projects.
 
    
 
