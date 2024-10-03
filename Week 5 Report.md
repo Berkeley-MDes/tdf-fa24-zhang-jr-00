@@ -2,7 +2,7 @@
 ## Week of 09/26-10/03
 ### 1. Reflections
 
-This week was my first experience working with the Photon 2 IoT system, and it required both quick learning and considerable effort to achieve a high-quality outcome. I didn’t just follow the provided instructions—I took extra steps to enhance both the hardware and software components. Here is a detailed breakdown of my contributions and improvements:
+It was my first experience working with the Photon 2 IoT system, and it required both quick learning and considerable effort to achieve a high-quality outcome. I didn’t just follow the provided instructions—I took extra steps to enhance both the hardware and software components. Here is a detailed breakdown of my contributions and improvements:
 
 1. **Simplified Circuit Design:**  
    After analyzing the original circuit, I quickly identified ways to make the design more streamlined and efficient. By simplifying the circuit, I was able to reduce complexity and potential points of failure, significantly improving the overall functionality of the hardware. The following two diagrams shows how I simplify the circuit design.
@@ -64,8 +64,6 @@ Now I'm going to present the some images and videos for my three projects.
 I am proud of how quickly I was able to learn the necessary concepts and apply them in a meaningful way, going beyond just following instructions. However, the most significant challenge I faced was setting up the Photon 2 board, which was time-consuming due to unclear guidance and complex configurations. Despite difficulties related to the kit, VS Code, version compatibility, and IoT network connection, I remained focused and resolved these issues. Ultimately, my persistence and quick learning allowed me to successfully complete all tasks while improving both the code and hardware design.
 
 This experience has significantly deepened my understanding of IoT systems and their components, particularly in relation to hardware-software integration and debugging.
-
-
 
 
 ### 2. Speculations
