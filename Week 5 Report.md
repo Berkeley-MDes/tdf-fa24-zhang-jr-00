@@ -13,13 +13,27 @@ This week was my first experience working with the Photon 2 IoT system, and it r
 3. **Code Optimization and Debugging:**  
    Instead of simply copying the provided code, I invested time in understanding how it worked and identifying areas for improvement. I added a serial print function to the code, which made debugging much more efficient and effective. This enhancement helped me quickly resolve issues during testing and contributed to the overall success of the project.
 
+Now I'm going to present the process of how I realize the three projects.
+
+#### 1.1 button_led_pulse
+
+asas
+
+#### 1.2 fsr_to_ledcolor
+
+asas
+
+
+#### 1.3 basic_button_soc
+
+asas
+
+
+#### short summary
+
 I am proud of how quickly I was able to learn the necessary concepts and apply them in a meaningful way, going beyond just following instructions. However, the most significant challenge I faced was setting up the Photon 2 board, which was time-consuming due to unclear guidance and complex configurations. Despite difficulties related to the kit, VS Code, version compatibility, and IoT network connection, I remained focused and resolved these issues. Ultimately, my persistence and quick learning allowed me to successfully complete all tasks while improving both the code and hardware design.
 
 This experience has significantly deepened my understanding of IoT systems and their components, particularly in relation to hardware-software integration and debugging.
-
-Following this, I transitioned to a new section focusing on Ecosystems, where I began exploring the **Health & Fitness Wearable Ecosystems**.
-
-Below are the network map of it.This map outlines a well-structured ecosystem consisting of stakeholders, apps & cloud platforms, devices, and sensors, illustrating how data flows between these components.
 
 <img width="1000" alt="Learning Rhino" src="assets/W4 Health wearable Ecosystem.png">
 <iframe width="560" height="315" src="https://youtube.com/shorts/PtWXePgDtTs?feature=share" frameborder="0" allowfullscreen></iframe>
