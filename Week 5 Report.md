@@ -27,6 +27,8 @@ This week was my first experience working with the Photon 2 IoT system, and it r
 
    Now I'm going to present the some images and videos for my three projects.
 
+   
+
 #### 1.1 button_led_pulse
 
    The following pictures show how I make the circuit more simple. And I tested the system with both green LED and red LED.
@@ -35,15 +37,24 @@ This week was my first experience working with the Photon 2 IoT system, and it r
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-simplified circuit.jpg">
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-greenLED.jpg">
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-redLED.jpg">
+   
 
 #### 1.2 fsr_to_ledcolor
 
-asas
-
+   In this project, I first learned how RGB LED works. Then I designed the circuit, uploading the code and successfully run it!
+   **You can press [here](https://youtube.com/shorts/fe86Xr1i_4M?feature=share) to watch the full video.**
+      
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/2-RGB-LED-diagram.jpg">
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/2-circuit.jpg">
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/2-uploading code to P2.png">
+   
 
 #### 1.3 basic_button_soc
 
-asas
+   The following picture shows how my circuit looks like and the related information from serial printer.
+   **You can press [here](https://youtube.com/shorts/Cfe_3X23axM?feature=share) to watch the full video.**
+      
+   <img width="1000" alt="Learning Rhino" src="assets/Week5/3-circuit.jpg">
 
 
 #### short summary
