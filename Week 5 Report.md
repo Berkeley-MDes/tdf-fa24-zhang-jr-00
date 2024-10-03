@@ -2,7 +2,20 @@
 ## Week of 09/26-10/03
 ### 1. Reflections
 
-This week marked my first time using the Photon 2 IoT system. Throughout the learning process, I followed the guidance provided and successfully completed three functions as per the project requirements. The most significant improvements I made were to the circuit design, which I simplified to make it more efficient. Additionally, I took the initiative to study the theory behind buttons and replaced a 4-leg button with a 2-leg one, enhancing the hardware design. I even helped some of my classmates implement this change. On the software side, I optimized the code by incorporating serial print functions for debugging, which made troubleshooting more effective. The main challenge I faced was related to the initial setup of the Photon 2 board. The lack of clear guidance, coupled with configuration difficulties, required significant time and effort. Issues arose from multiple areas such as kit components, VS Code, version compatibility, and IoT network connection problems. However, I persisted through these difficulties and successfully completed my tasks. This experience has deepened my understanding of IoT systems, debugging methods, and hardware-software integration.
+This week was my first experience working with the Photon 2 IoT system, and it required both quick learning and considerable effort to achieve a high-quality outcome. I didn’t just follow the provided instructions—I took extra steps to enhance both the hardware and software components. Here is a detailed breakdown of my contributions and improvements:
+
+1. **Simplified Circuit Design:**  
+   After analyzing the original circuit, I quickly identified ways to make the design more streamlined and efficient. By simplifying the circuit, I was able to reduce complexity and potential points of failure, significantly improving the overall functionality of the hardware.
+
+2. **Button Replacement and Knowledge Sharing:**  
+   I took the initiative to study the mechanics of different types of buttons. By replacing the 4-leg button with a more efficient 2-leg button, I enhanced the hardware design. Furthermore, I didn’t stop there—I shared this newfound knowledge with classmates, teaching them how to make similar improvements to their projects.
+
+3. **Code Optimization and Debugging:**  
+   Instead of simply copying the provided code, I invested time in understanding how it worked and identifying areas for improvement. I added a serial print function to the code, which made debugging much more efficient and effective. This enhancement helped me quickly resolve issues during testing and contributed to the overall success of the project.
+
+I am proud of how quickly I was able to learn the necessary concepts and apply them in a meaningful way, going beyond just following instructions. However, the most significant challenge I faced was setting up the Photon 2 board, which was time-consuming due to unclear guidance and complex configurations. Despite difficulties related to the kit, VS Code, version compatibility, and IoT network connection, I remained focused and resolved these issues. Ultimately, my persistence and quick learning allowed me to successfully complete all tasks while improving both the code and hardware design.
+
+This experience has significantly deepened my understanding of IoT systems and their components, particularly in relation to hardware-software integration and debugging.
 
 Following this, I transitioned to a new section focusing on Ecosystems, where I began exploring the **Health & Fitness Wearable Ecosystems**.
 
