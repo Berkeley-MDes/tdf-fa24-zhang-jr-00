@@ -6,8 +6,8 @@ This week was my first experience working with the Photon 2 IoT system, and it r
 
 1. **Simplified Circuit Design:**  
    After analyzing the original circuit, I quickly identified ways to make the design more streamlined and efficient. By simplifying the circuit, I was able to reduce complexity and potential points of failure, significantly improving the overall functionality of the hardware.
-   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse.png">
-   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse - simplified.png">
+   <img width="500" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse.png">
+   <img width="500" alt="Learning Rhino" src="assets/Week5/1-button_led_pulse - simplified.png">
    
 
 3. **Button Replacement and Knowledge Sharing:**  
