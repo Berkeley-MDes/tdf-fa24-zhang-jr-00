@@ -34,6 +34,7 @@ This week was my first experience working with the Photon 2 IoT system, and it r
    
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-simplified circuit.jpg">
    [![Video Preview](./assets/Week5/1-greenLED.jpg)](https://youtube.com/shorts/PtWXePgDtTs?feature=share)
+
    <img width="1000" alt="Learning Rhino" src="assets/Week5/1-redLED.jpg">
 
 #### 1.2 fsr_to_ledcolor
