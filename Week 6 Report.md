@@ -4,9 +4,10 @@
 
 It was my first experience working with the Photon 2 and Stemma QT. I didn’t just follow the provided instructions—I took extra steps to enhance both the hardware and software components. Here is a detailed breakdown of my contributions and improvements:
 
-#### 1.1 MPU 6070
+#### Realize the Basic Funtion
+<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU code1.png">
 
-##### How I Improved and Tried New Functions
+#### How I Improved and Tried New Functions
 
 The main idea is controlling the brightness of an LED connected to **A5** based on the absolute value of the **ay** (acceleration on the Y-axis) from the MPU6050 sensor. To achieve this, I conducted the following steps for the software part:
 
