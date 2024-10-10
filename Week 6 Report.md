@@ -4,10 +4,18 @@
 
 It was my first experience working with the Photon 2 and Stemma QT. I didn’t just follow the provided instructions—I took extra steps to enhance both the hardware and software components. Here is a detailed breakdown of my contributions and improvements:
 
-#### Realize the Basic Funtion
-<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU code1.png">
+#### 1.1 Realize the Basic Funtion
+This week, I tried to use the Stemma QT in my system. I first weld the related circuit, and then realized the basic funtion of the two Stemma QT sensors: APDS and IMU. The feedback on serial monitor shows the software and hardware both being set well and worked well.
+<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 weld.png">
+<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 apds.png">
+<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 apds2.png">
 
-#### How I Improved and Tried New Functions
+##### Debugging
+One problem that make me confused for a long time is that I failed to compile even if I have already installed the related library clearly. I both tryied to mannually put a library folder in the program and also tryied to install with "pip install", however both failed. So I tried another way: I use the relative path to use the library, like #include "../lib/MPU6050/src//MPU6050.h". Just like the follwing picture shows.
+
+<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 lib.png">
+
+#### 1.2 How I Improved and Tried New Functions
 
 The main idea is controlling the brightness of an LED connected to **A5** based on the absolute value of the **ay** (acceleration on the Y-axis) from the MPU6050 sensor. To achieve this, I conducted the following steps for the software part:
 
