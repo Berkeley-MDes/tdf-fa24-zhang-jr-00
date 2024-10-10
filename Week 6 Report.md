@@ -6,17 +6,25 @@ It was my first experience working with the Photon 2 and Stemma QT. I didn’t j
 
 #### 1.1 MPU 6070
 
-How I improve and try new functions? The main idea is controling the brightness of an LED connected to A5 based on the absolute value of the ay (acceleration on the Y-axis) from the MPU6050 sensor. To achieve this, I conducted following steps.
+How I improve and try new functions? The main idea is controling the brightness of an LED connected to A5 based on the absolute value of the ay (acceleration on the Y-axis) from the MPU6050 sensor. To achieve this, I conducted following steps for software part:
 
 ·  Limit the ay values to a range (-15000 to 15000) using constrain().
 ·  Map the absolute value of ay to a range suitable for PWM control (0 to 255). Since the analogWrite() function expects values between 0 (LED off) and 255 (maximum brightness), I map the constrained ay values to this range.
 ·  Smooth out the sensor values using a simple rolling average or a moving average to reduce noise.
 ·  Control the brightness of the LED on A5 using analogWrite() based on the mapped value from the sensor.
+·  Add feedback with Serial Monitor to monitor the Smoothed Ay and PWM value.
+
+For physical circuit part, I:
+
+·  Put the Photon 2 on breadboard fir circuit connection.
+·  Connect the LED positive to A5, with a resistor to protect the circuit.
+·  Connect the LED negative to GND through the breadboard.
+
    **You can press [here](https://youtube.com/shorts/PtWXePgDtTs?feature=share) to watch the full video.**
    
-   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-simplified circuit.jpg">
-   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-greenLED.jpg">
-   <img width="1000" alt="Learning Rhino" src="assets/Week5/1-redLED.jpg">
+   <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU(improved).png">
+   <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU light low.jpg">
+   <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU light high.jpg">
    
 
 #### 1.2 fsr_to_ledcolor
