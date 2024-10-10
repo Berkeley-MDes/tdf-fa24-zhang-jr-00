@@ -6,7 +6,7 @@ It was my first experience working with the Photon 2 and Stemma QT. I didn’t j
 
 #### 1.1 MPU 6070
 
-## How I Improved and Tried New Functions
+##### How I Improved and Tried New Functions
 
 The main idea is controlling the brightness of an LED connected to **A5** based on the absolute value of the **ay** (acceleration on the Y-axis) from the MPU6050 sensor. To achieve this, I conducted the following steps for the software part:
 
@@ -16,7 +16,10 @@ The main idea is controlling the brightness of an LED connected to **A5** based 
 - Controlled the brightness of the LED on **A5** using `analogWrite()` based on the mapped value from the sensor.
 - Added feedback with the Serial Monitor to observe the **Smoothed ay** and **PWM** values.
 
-Here is a diagram to show the main design
+Here is a diagram to show the main design:
+<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 Diagram of System.png">
+
+And the following two pictures present the changed code.
 <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 Diagram of System.png">
 
 For the physical circuit part, I:
@@ -25,8 +28,7 @@ For the physical circuit part, I:
 - Connected the LED positive to **A5**, with a resistor to protect the circuit.
 - Connected the LED negative to **GND** through the breadboard.
 
-
-Below are the pictures of **You can press [here](https://youtube.com/shorts/PtWXePgDtTs?feature=share) to watch the full video.**
+Below are the pictures showing the improved feedback on the Serial Monitor and how the light becomes brighter when the absolute value of ay is high (when the IMU is almost vertical) and dimmer when the absolute value of ay is low (when the IMU is almost horizontal). **You can press [here](https://youtube.com/shorts/PtWXePgDtTs?feature=share) to watch the full video.**
    
    <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU(improved).png">
    <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU light low.jpg">
