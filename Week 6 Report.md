@@ -15,6 +15,10 @@ One problem that confused me for a long time was that I failed to compile, even 
 
 <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 lib.png">
 
+
+
+
+
 #### 1.2 How I Improved and Tried New Functions
 
 The main idea is controlling the brightness of an LED connected to **A5** based on the absolute value of the **ay** (acceleration on the Y-axis) from the MPU6050 sensor. To achieve this, I conducted the following steps for the software part:
@@ -38,7 +42,7 @@ For the physical circuit part, I:
 - Connected the LED positive to **A5**, with a resistor to protect the circuit.
 - Connected the LED negative to **GND** through the breadboard.
 
-Below are the pictures showing the improved feedback on the Serial Monitor and how the light becomes brighter when the absolute value of ay is high (when the IMU is almost vertical) and dimmer when the absolute value of ay is low (when the IMU is almost horizontal). **You can press [here](https://youtube.com/shorts/PtWXePgDtTs?feature=share) to watch the full video.**
+Below are the pictures showing the improved feedback on the Serial Monitor and how the light becomes brighter when the absolute value of ay is high (when the IMU is almost vertical) and dimmer when the absolute value of ay is low (when the IMU is almost horizontal). **You can press [here](https://youtu.be/rguRLTTPiGs) to watch the full video.**
    
    <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU(improved).png">
    <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU light low.jpg">
