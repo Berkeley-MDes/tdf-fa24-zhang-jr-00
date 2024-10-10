@@ -6,12 +6,12 @@ It was my first experience working with the Photon 2 and Stemma QT. I didn’t j
 
 #### 1.1 Realize the Basic Funtion
 This week, I tried to use the Stemma QT in my system. I first weld the related circuit, and then realized the basic funtion of the two Stemma QT sensors: APDS and IMU. The feedback on serial monitor shows the software and hardware both being set well and worked well.
-<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 weld.png">
+<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 weld.jpg">
 <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 apds.png">
-<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 apds2.png">
+<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 apds2.jpg">
 
 ##### Debugging
-One problem that make me confused for a long time is that I failed to compile even if I have already installed the related library clearly. I both tryied to mannually put a library folder in the program and also tryied to install with "pip install", however both failed. So I tried another way: I use the relative path to use the library, like #include "../lib/MPU6050/src//MPU6050.h". Just like the follwing picture shows.
+One problem that confused me for a long time was that I failed to compile, even though I had already installed the related library. I tried both manually placing the library folder in the program and installing it with `pip install`, but both methods failed. So, I tried another approach: I used the relative path to include the library, like `#include "../lib/MPU6050/src//MPU6050.h"`. This is shown in the following picture.
 
 <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 lib.png">
 
