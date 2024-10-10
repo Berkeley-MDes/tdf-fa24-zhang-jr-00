@@ -20,7 +20,8 @@ Here is a diagram to show the main design:
 <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 Diagram of System.png">
 
 And the following two pictures present the changed code.
-<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 Diagram of System.png">
+<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU code1.png">
+<img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU code2.png">
 
 For the physical circuit part, I:
 
