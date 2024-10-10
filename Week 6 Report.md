@@ -34,31 +34,11 @@ Below are the pictures showing the improved feedback on the Serial Monitor and h
    <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU(improved).png">
    <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU light low.jpg">
    <img width="1000" alt="Learning Rhino" src="assets/Week6/W6 IMU light high.jpg">
-   
-
-#### 1.2 fsr_to_ledcolor
-
-   In this project, I first learned how RGB LED works. Then I designed the circuit, uploading the code and successfully run it! The color is changing! So beautiful!
-   **You can press [here](https://youtube.com/shorts/fe86Xr1i_4M?feature=share) to watch the full video.**
-      
-   <img width="1000" alt="Learning Rhino" src="assets/Week5/2-RGB-LED-diagram.jpg">
-   <img width="1000" alt="Learning Rhino" src="assets/Week5/2-circuit.jpg">
-   <img width="1000" alt="Learning Rhino" src="assets/Week5/2-uploading code to P2.png">
-   
-
-#### 1.3 basic_button_soc
-
-   The following picture shows how my circuit looks like and the related information from serial printer. When I pressed the button, the system can detect it and gave me feedback with serial monitor.
-   **You can press [here](https://youtube.com/shorts/Cfe_3X23axM?feature=share) to watch the full video.**
-      
-   <img width="1000" alt="Learning Rhino" src="assets/Week5/3-circuit.jpg">
 
 
 #### short summary
 
-I am proud of how quickly I was able to learn the necessary concepts and apply them in a meaningful way, going beyond just following instructions. However, the most significant challenge I faced was setting up the Photon 2 board, which was time-consuming due to unclear guidance and complex configurations. Despite difficulties related to the kit, VS Code, version compatibility, and IoT network connection, I remained focused and resolved these issues. Ultimately, my persistence and quick learning allowed me to successfully complete all tasks while improving both the code and hardware design.
-
-This experience has significantly deepened my understanding of IoT systems and their components, particularly in relation to hardware-software integration and debugging.
+The system effectively controls the brightness of an LED based on the absolute value of the ay (Y-axis acceleration) from the MPU6050 sensor. As the IMU tilts vertically, the LED brightness increases smoothly, reaching its maximum when ay is high. Conversely, as the IMU moves closer to a horizontal position, the LED dims, with the brightness decreasing proportionally to the ay value. This setup allows for real-time and smooth adjustment of LED brightness based on the sensor's orientation.
 
 
 ### 2. Speculations
