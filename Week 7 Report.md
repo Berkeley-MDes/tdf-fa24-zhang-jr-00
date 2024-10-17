@@ -1,5 +1,5 @@
-# Week 1: Report 1 #
-## Week of 09/01/2024
+# Week 7: Report 7 #
+## Week of 10/17/2024
 
 This week, I completed Maker Courses related.
 
