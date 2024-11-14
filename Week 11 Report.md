@@ -9,7 +9,7 @@ This diagram illustrates the overall architecture of the "MINI ME" LLM system. I
 
 
 <img width="1000" alt="Learning Rhino" src="assets/Week11 system process.png">
-This diagram illustrates the flow of how my "MINI ME" agent processes incoming queries. When a user submits a question, the Input Processing LLM first analyzes and categorizes the query. It then determines if the response requires external information (public sources) or if it can be handled internally using the personal knowledge base. This step ensures efficiency by directing queries appropriately, either to the knowledge base or to an internet search module. Through this flow, the system dynamically decides the best data sources to use for each query, ensuring relevant and comprehensive responses.
+This diagram illustrates the flow of how my "MINI ME" agent processes incoming queries. When a user submits a question, the Input Processing LLM first analyzes and categorizes the query. It then determines if the response requires external information (public sources) or if it can be handled internally using the personal knowledge base. This step ensures efficiency by directing queries appropriately, either to the knowledge base or to an internet search module. Through this flow, the system dynamically decides the best data sources to use for each query, ensuring relevant and comprehensive responses.<br><br>
 
 
 <img width="1000" alt="Learning Rhino" src="assets/Week11 detailed system flow.png">
