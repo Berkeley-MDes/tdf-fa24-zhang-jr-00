@@ -11,7 +11,7 @@ This week, I tried to use the Stemma QT in my system. I first weld the related c
 <img width="500" alt="Learning Rhino" src="assets/Week7/Expression Design.png">
 <img width="500" alt="Learning Rhino" src="assets/Week7/Expression Design (2).png">
 </div>
-<img width="1000" alt="Learning Rhino" src="assets/Week7/expression design.jpg">
+<img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 expression design.jpg">
 
 
 ### 2. Speculations
