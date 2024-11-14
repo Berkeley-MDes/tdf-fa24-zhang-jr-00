@@ -9,7 +9,7 @@ This week, I focused on conducting a series of initial experiments with the 'MIN
 This Function Diagram illustrates the core components I explored this week in developing an LLM agent. It presents the basic structure and workflow of the agent, breaking down the function of each element: GPT as the primary model for generating responses, Instruct for guiding the model's responses to align with a specific persona or purpose, RAG for retrieving personalized information from a curated knowledge base, and Variables for adapting responses based on dynamic context like time or location. This diagram encapsulates how these components work together to create a personalized, context-aware digital assistant.
 
 
-#### Understanding Basic LLM Capabilities
+#### 1.1 Understanding Basic LLM Capabilities
 The first experiment involved testing a simple GPT model without any special configurations such as instructional prompts, retrieval augmentation, or variable adjustments. This provided a baseline understanding of the model’s inherent capabilities. Without additional guidance, the model produced generic responses, highlighting the need for further customization to align the agent's behavior with my personal and professional context.
 
 <img width="1000" alt="Learning Rhino" src="assets/Week10 Agent1.png">
@@ -17,7 +17,7 @@ The first experiment involved testing a simple GPT model without any special con
 This image represents the initial setup of the LLM agent using a basic GPT model without additional enhancements. It serves as the foundation, showcasing a straightforward configuration where the model responds to prompts without context-specific instructions or retrieval augmentation. When asked about the purpose, it gives a general answer, talking about its main abilities, but it do not give specified inforation.
 
 
-#### Impact of Instructional Prompts on Personalization
+#### 1.2 Impact of Instructional Prompts on Personalization
 In Experiment 2, I introduced instructional prompts to shape the model’s responses by giving it context about representing me, Jingru Zhang, as a creative technologist, HCI researcher, and artist. This experiment demonstrated how instructional prompts could make the responses more aligned with my identity and expertise, reflecting my background in human-computer interaction. The model now provided answers that felt more personalized, showing how setting a defined role can influence the quality of LLM responses.
 
 <img width="1000" alt="Learning Rhino" src="assets/Week10 Agent2.png">
@@ -25,7 +25,7 @@ In Experiment 2, I introduced instructional prompts to shape the model’s respo
 This image illustrates the second stage of development, where instructional prompts are integrated into the GPT model. Here, the model is guided to represent my professional experience as a creative technologist and HCI researcher, making its responses more aligned with my background and expertise. The addition of instructions allows the model to deliver answers that are not only relevant but also tailored to my identity, making the interactions feel more personalized and purpose-driven.
 
 
-#### Leveraging a Personalized Knowledge Base with Retrieval Augmented Generation (RAG)
+#### 1.3 Leveraging a Personalized Knowledge Base with Retrieval Augmented Generation (RAG)
 
 Experiment 3 integrated a custom knowledge base using RAG, where the model accessed specific personal documents like my CV and project reports. This enhancement allowed the agent to retrieve details directly relevant to my work, making its responses both accurate and uniquely tailored to my personal experiences. For instance, when asked about my background, the model could pull precise information on my studies at Tsinghua University and UC Berkeley, significantly improving its response quality and relevance.
 
@@ -35,7 +35,7 @@ Experiment 3 integrated a custom knowledge base using RAG, where the model acces
 The two images above show how RAG empowers the agent to accurately answer questions related to my academic and professional background by accessing detailed, internal resources. When asked about my education background, it successfully find the related information in my personal knowledge base, and give the right answer.
 
 
-#### Incorporating Context-Specific Variables
+#### 1.4 Incorporating Context-Specific Variables
 
 In the fourth experiment, I added dynamic variables, such as location and year, enabling the model to adjust responses based on these factors. This configuration made the agent more adaptable and time-specific, accurately answering questions like my current academic status in 2024 or my involvement in Berkeley. This flexibility allows the agent to be even more precise, which could be valuable in scenarios requiring responses that consider both place and time.
 
