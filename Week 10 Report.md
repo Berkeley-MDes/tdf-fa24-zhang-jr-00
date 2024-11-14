@@ -6,6 +6,8 @@ This week, I focused on conducting a series of initial experiments with the 'MIN
 
 <img width="1000" alt="Learning Rhino" src="assets/Week10 Function Diagram.png">
 
+This Function Diagram illustrates the core components I explored this week in developing an LLM agent. It presents the basic structure and workflow of the agent, breaking down the function of each element: GPT as the primary model for generating responses, Instruct for guiding the model's responses to align with a specific persona or purpose, RAG for retrieving personalized information from a curated knowledge base, and Variables for adapting responses based on dynamic context like time or location. This diagram encapsulates how these components work together to create a personalized, context-aware digital assistant.
+
 #### Understanding Basic LLM Capabilities
 The first experiment involved testing a simple GPT model without any special configurations such as instructional prompts, retrieval augmentation, or variable adjustments. This provided a baseline understanding of the model’s inherent capabilities. Without additional guidance, the model produced generic responses, highlighting the need for further customization to align the agent's behavior with my personal and professional context.
 
