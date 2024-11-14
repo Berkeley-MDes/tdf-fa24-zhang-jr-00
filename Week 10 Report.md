@@ -6,13 +6,11 @@ This week, I focused on conducting a series of initial experiments with the 'MIN
 
 
 #### Understanding Basic LLM Capabilities
-
 The first experiment involved testing a simple GPT model without any special configurations such as instructional prompts, retrieval augmentation, or variable adjustments. This provided a baseline understanding of the model’s inherent capabilities. Without additional guidance, the model produced generic responses, highlighting the need for further customization to align the agent's behavior with my personal and professional context.
 
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Expression Design.png">
 
 #### Impact of Instructional Prompts on Personalization
-
 In Experiment 2, I introduced instructional prompts to shape the model’s responses by giving it context about representing me, Jingru Zhang, as a creative technologist, HCI researcher, and artist. This experiment demonstrated how instructional prompts could make the responses more aligned with my identity and expertise, reflecting my background in human-computer interaction. The model now provided answers that felt more personalized, showing how setting a defined role can influence the quality of LLM responses.
 
 
