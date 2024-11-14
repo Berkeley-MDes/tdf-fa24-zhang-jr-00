@@ -7,8 +7,11 @@ This week, I concentrated on developing facial expression animations for a robot
 #### Designing the Logic
 This week, I tried to use the Stemma QT in my system. I first weld the related circuit, and then realized the basic funtion of the two Stemma QT sensors: APDS and IMU. The feedback on serial monitor shows the software and hardware both being set well and worked well.
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 diagram.png">
-<img width="1000" alt="Learning Rhino" src="assets/Week7/Expression Design.png">
-<img width="1000" alt="Learning Rhino" src="assets/Week7/Expression Design (2).png">
+<div align="center">
+<img width="500" alt="Learning Rhino" src="assets/Week7/Expression Design.png">
+<img width="500" alt="Learning Rhino" src="assets/Week7/Expression Design (2).png">
+</div>
+<img width="1000" alt="Learning Rhino" src="assets/Week7/expression design.jpg">
 
 
 ### 2. Speculations
