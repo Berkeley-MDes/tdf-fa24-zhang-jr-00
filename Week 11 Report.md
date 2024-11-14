@@ -4,11 +4,11 @@
 
 This week, I concentrated on refining the 'MINI ME' agent by integrating all previous enhancements with a real-time internet search capability. This final experiment allowed the agent to access both personal knowledge and current public information, resulting in a fully adaptive, context-aware digital representation. By balancing internal knowledge with external data sources, I achieved a comprehensive system capable of responding accurately and relevantly. This milestone marks the completion of MINI ME's transformation into a digital twin that provides personalized, timely insights in response to complex queries.<br><br>
 
-<img width="1000" alt="Learning Rhino" src="assets/Week11 system architecture.png">
+<img width="500" alt="Learning Rhino" src="assets/Week11 system architecture.png">
 This diagram illustrates the overall architecture of the "MINI ME" LLM system. It showcases the primary components and their interactions within the system. The architecture is designed to enable seamless question answering by leveraging both a personalized knowledge base and external public sources, such as research papers, websites, and documents. Two distinct LLMs are integrated into this setup. The first LLM processes user inquiries, formatting them and determining if they require external data from public sources or if they can be answered solely within the personal knowledge base. The second LLM acts as the core of the system, executing the response generation based on the selected data sources. This architecture allows for a flexible, robust, and intelligent question-answering experience.<br><br>
 
 
-<img width="1000" alt="Learning Rhino" src="assets/Week11 system process.png">
+<img width="500" alt="Learning Rhino" src="assets/Week11 system process.png">
 This diagram illustrates the flow of how my "MINI ME" agent processes incoming queries. When a user submits a question, the Input Processing LLM first analyzes and categorizes the query. It then determines if the response requires external information (public sources) or if it can be handled internally using the personal knowledge base. This step ensures efficiency by directing queries appropriately, either to the knowledge base or to an internet search module. Through this flow, the system dynamically decides the best data sources to use for each query, ensuring relevant and comprehensive responses.<br><br>
 
 
