@@ -26,15 +26,14 @@ The first experiment focused on implementing Retrieval Augmented Generation (RAG
 These two screenshots show the knowledge base configuration experiment and monitoring interface. In the first image, various chunking and overlap settings were tested to find an optimal structure, ultimately selecting a setup of 200 tokens per chunk with 200 tokens of overlap. This configuration enhances contextual understanding by allowing MINI ME to maintain coherence across segments while balancing retrieval efficiency, enabling quick access to relevant information without losing context. In the second image, the monitoring interface demonstrates the agent’s success in retrieving key information from the personalized database, accurately locating and presenting relevant details from Jingru’s curated content to support precise, contextually relevant responses.<br><br>
 
 
-#### 1.2 Achieving a Personalized Digital Twin with Comprehensive Insights
-Through this configuration, MINI ME now acts as a true “digital twin,” capable of delivering nuanced responses that combine my personal data with relevant, up-to-date insights from the internet. When asked about suitable future projects, the agent suggested an interactive HCI installation, integrating my technical skills and ongoing research interests. This demonstrated the model’s ability to reflect my aspirations accurately and provide insightful suggestions.
+#### 1.2 External Source Search Experiment
+This experiment explored the integration of external search capabilities through Google. This feature allowed the agent to access real-time public information, supplementing the internal knowledge base with up-to-date data from the internet. By incorporating Google search, the agent could provide richer and more comprehensive responses, especially for questions requiring broader context beyond its static data. This experiment illustrated the agent’s adaptability in balancing internal knowledge with relevant external sources, enhancing its responses to be both informed and current.<br>
+<div align=center><img width="1000" alt="Learning Rhino" src="assets/Week11 google search.png"></div>
+This image shows the agent’s monitoring process during an external Google search. The agent successfully locates a relevant website and provides a coherent description of its content, demonstrating its ability to not only retrieve information from public sources but also interpret and present it in a meaningful way. This capability highlights the agent's understanding and synthesis of external information to complement its personalized knowledge base.<br><br>
 
-3. Balancing Internal and External Knowledge Sources
-The final experiment confirmed the utility of balancing personal and external knowledge sources. By using Retrieval Augmented Generation (RAG) and Google search, the agent can retrieve personal information while staying informed of recent trends and developments in my field. This balance is crucial for creating responses that are both accurate and contextually relevant, as MINI ME now addresses questions with a well-rounded perspective.
-<img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 diagram.png">
-<img width="1000" alt="Learning Rhino" src="assets/Week7/Expression Design.png">
-<img width="1000" alt="Learning Rhino" src="assets/Week7/Expression Design (2).png">
-
+#### 1.3 Project Outcome
+The "MINI ME" Project demonstrates a balanced use of personalized knowledge and external data, achieving a level of interaction that feels genuinely responsive and comprehensive. This project highlights my dedication to exceeding requirements, as I designed an agent that mirrors my own expertise and insights while remaining adaptable to broader information contexts. By combining RAG, variables, real-time search, and context-aware variables, I successfully created a digital representation of myself that is capable of delivering rich, personalized, and current information. This approach not only fulfills all the listed requirements but also reflects my growth in knowledge management, innovative LLM design, and the ability to create an AI agent that feels meaningfully personalized.
+<div align=center><img width="1000" alt="Learning Rhino" src="assets/Week11 Final Agent1.png"></div><br><br>
 
 ### 2. Speculations
 
