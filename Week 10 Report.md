@@ -32,11 +32,16 @@ Experiment 3 integrated a custom knowledge base using RAG, where the model acces
 <img width="1000" alt="Learning Rhino" src="assets/Week10 Agent3-1.png">
 <img width="1000" alt="Learning Rhino" src="assets/Week10 Agent3-2.png">
 
+The two images above show how RAG empowers the agent to accurately answer questions related to my academic and professional background by accessing detailed, internal resources. When asked about my education background, it successfully find the related information in my personal knowledge base, and give the right answer.
+
+
 #### Incorporating Context-Specific Variables
 
 In the fourth experiment, I added dynamic variables, such as location and year, enabling the model to adjust responses based on these factors. This configuration made the agent more adaptable and time-specific, accurately answering questions like my current academic status in 2024 or my involvement in Berkeley. This flexibility allows the agent to be even more precise, which could be valuable in scenarios requiring responses that consider both place and time.
+
 <img width="1000" alt="Learning Rhino" src="assets/Week10 Agent4.png">
 
+This image displays the fourth experiment, where the agent incorporates dynamic variables like location and year. This configuration enables the agent to modify responses based on specific context, such as confirming my current studies at Berkeley in 2024. By adjusting answers with real-time variables, the model becomes more adaptable and time-specific, enhancing its ability to deliver accurate, context-aware information that reflects my current status or location.
 
 
 
@@ -45,12 +50,3 @@ In the fourth experiment, I added dynamic variables, such as location and year, 
 One future direction is to improve the model’s adaptability further by refining the use of variables and knowledge retrieval. For example, enabling the agent to recognize changes in my research focus or new professional achievements over time could make it a continuously evolving digital twin. This would be especially useful in professional settings where maintaining up-to-date personal data is crucial for networking and collaboration.
 
 Suppose in the future I transition into a new research area such as neuroinformatics. With an adaptive knowledge base, the model could update its responses based on this new focus area, allowing it to accurately reflect changes in my career trajectory.
-
-
-
-Experiment 1: Basic GPT response without instructions, showing generic answers.
-Experiment 2: Response using instructional prompts to represent me as Jingru Zhang.
-Experiment 3: Example response that utilizes the personalized knowledge base.
-Experiment 4: Context-specific answer using dynamic variables (e.g., confirming my current studies at Berkeley in 2024).
-Sketches, Drawings, and Diagrams:
-Use the System Architecture Diagram to explain how different components interact to process questions. Additionally, add the System Process Diagram to illustrate the decision-making flow within the MINI ME agent. These diagrams provide a visual representation of the system’s evolution from a basic LLM to a context-sensitive agent.
