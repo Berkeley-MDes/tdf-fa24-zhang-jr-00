@@ -8,15 +8,22 @@ This week, I focused on conducting a series of initial experiments with the 'MIN
 
 This Function Diagram illustrates the core components I explored this week in developing an LLM agent. It presents the basic structure and workflow of the agent, breaking down the function of each element: GPT as the primary model for generating responses, Instruct for guiding the model's responses to align with a specific persona or purpose, RAG for retrieving personalized information from a curated knowledge base, and Variables for adapting responses based on dynamic context like time or location. This diagram encapsulates how these components work together to create a personalized, context-aware digital assistant.
 
+
 #### Understanding Basic LLM Capabilities
 The first experiment involved testing a simple GPT model without any special configurations such as instructional prompts, retrieval augmentation, or variable adjustments. This provided a baseline understanding of the model’s inherent capabilities. Without additional guidance, the model produced generic responses, highlighting the need for further customization to align the agent's behavior with my personal and professional context.
 
 <img width="1000" alt="Learning Rhino" src="assets/Week10 Agent1.png">
 
+This image represents the initial setup of the LLM agent using a basic GPT model without additional enhancements. It serves as the foundation, showcasing a straightforward configuration where the model responds to prompts without context-specific instructions or retrieval augmentation. This setup allowed me to evaluate the inherent capabilities of the GPT model, establishing a baseline for personalization and adaptability improvements in subsequent experiments.
+
+
 #### Impact of Instructional Prompts on Personalization
 In Experiment 2, I introduced instructional prompts to shape the model’s responses by giving it context about representing me, Jingru Zhang, as a creative technologist, HCI researcher, and artist. This experiment demonstrated how instructional prompts could make the responses more aligned with my identity and expertise, reflecting my background in human-computer interaction. The model now provided answers that felt more personalized, showing how setting a defined role can influence the quality of LLM responses.
 
 <img width="1000" alt="Learning Rhino" src="assets/Week10 Agent2.png">
+
+This image illustrates the second stage of development, where instructional prompts are integrated into the GPT model. Here, the model is guided to represent my professional experience as a creative technologist and HCI researcher, making its responses more aligned with my background and expertise. The addition of instructions allows the model to deliver answers that are not only relevant but also tailored to my identity, making the interactions feel more personalized and purpose-driven.
+
 
 #### Leveraging a Personalized Knowledge Base with Retrieval Augmented Generation (RAG)
 
