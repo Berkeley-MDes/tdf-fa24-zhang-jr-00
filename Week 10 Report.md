@@ -30,13 +30,9 @@ In the fourth experiment, I added dynamic variables, such as location and year, 
 
 One future direction is to improve the model’s adaptability further by refining the use of variables and knowledge retrieval. For example, enabling the agent to recognize changes in my research focus or new professional achievements over time could make it a continuously evolving digital twin. This would be especially useful in professional settings where maintaining up-to-date personal data is crucial for networking and collaboration.
 
-Example: Suppose in the future I transition into a new research area such as neuroinformatics. With an adaptive knowledge base, the model could update its responses based on this new focus area, allowing it to accurately reflect changes in my career trajectory.
+Suppose in the future I transition into a new research area such as neuroinformatics. With an adaptive knowledge base, the model could update its responses based on this new focus area, allowing it to accurately reflect changes in my career trajectory.
 
-Relevant Industry News:
-In 2023, OpenAI launched the “fine-tuning with retrieval” feature, which allows LLMs to pull data from specific databases without requiring manual updates. This feature, combined with personal knowledge bases, can keep models informed with the latest developments. This news highlights how retrieval-augmented models, like my project’s MINI ME, align with industry advancements in personalized AI.
 
-Images and Videos:
-Include screenshots from each experiment to illustrate the development of the model:
 
 Experiment 1: Basic GPT response without instructions, showing generic answers.
 Experiment 2: Response using instructional prompts to represent me as Jingru Zhang.
