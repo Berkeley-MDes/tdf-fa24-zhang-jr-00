@@ -14,7 +14,7 @@ The first experiment involved testing a simple GPT model without any special con
 
 <img width="1000" alt="Learning Rhino" src="assets/Week10 Agent1.png">
 
-This image represents the initial setup of the LLM agent using a basic GPT model without additional enhancements. It serves as the foundation, showcasing a straightforward configuration where the model responds to prompts without context-specific instructions or retrieval augmentation. This setup allowed me to evaluate the inherent capabilities of the GPT model, establishing a baseline for personalization and adaptability improvements in subsequent experiments.
+This image represents the initial setup of the LLM agent using a basic GPT model without additional enhancements. It serves as the foundation, showcasing a straightforward configuration where the model responds to prompts without context-specific instructions or retrieval augmentation. When asked about the purpose, it gives a general answer, talking about its main abilities, but it do not give specified inforation.
 
 
 #### Impact of Instructional Prompts on Personalization
