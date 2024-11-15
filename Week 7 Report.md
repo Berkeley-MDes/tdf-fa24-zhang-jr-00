@@ -10,7 +10,7 @@ The two diagrams below illustrate the Facial Expression Design Process. They exp
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 diagram.png">
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 expression design.jpg"><br><br>
 
-And here are some of the references of the facial expression, made with Midjourney. The left is 
+Here are some reference images of facial expressions created with Midjourney. The image on the left serves as a reference for anger, while the one on the right represents sadness.
 <div align="center">
 <img width="500" alt="Learning Rhino" src="assets/Week7/Expression Design.png">
 <img width="500" alt="Learning Rhino" src="assets/Week7/Expression Design (2).png">
