@@ -15,12 +15,14 @@ The System Architecture Diagram presents a high-level overview of the digital ec
 <img width="1000" alt="Learning Rhino" src="assets/W8 system architecture.png">
 <div align="center">System Architecture Diagram</div><br><br>
 
-
-Process Diagram
 The Process Diagram captures the flow of information through each stage of the project’s operation, from data collection to user interaction. It outlines key touchpoints such as trash detection, status monitoring, cloud data transmission, and user notifications. Each stage is labeled to highlight the sequence and logic of the system’s operation, illustrating how sensor inputs translate into outputs, such as robot facial expressions, movements, and user notifications on the web and user ends.
+<img width="1000" alt="Learning Rhino" src="assets/W8 Process Diagram.png">
+<div align="center">Process Diagram</div><br><br>
 
-Whole System Architecture
+
 The Whole System Architecture Diagram provides a more detailed look at the system, including cloud communication and data flow details that emphasize the feedback loop for system monitoring. It shows how data flows seamlessly from the robot to the cloud and back to the user, ensuring smooth and reliable alerts when the bin is full or tipped over. This closed-loop system enhances both functionality and usability, supporting real-time data transmission and responsive actions.
+<img width="1000" alt="Learning Rhino" src="assets/W8 detailed system architecture.png">
+<div align="center">Detailed System Architecture</div><br><br>
 
 
 ### 2. Speculations
