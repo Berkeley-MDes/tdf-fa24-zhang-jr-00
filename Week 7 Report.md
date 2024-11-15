@@ -17,8 +17,14 @@ Here are some reference images of facial expressions created with Midjourney. Th
 </div><br><br>
 
 #### 1.2 Programming and Fine Tuning
+I designed four distinct facial expressions for the robot, each requiring separate tasks assigned to the left and right eyes, which are displayed using OLED screens. By connecting the AD0 pins to ground and 3.3V, I was able to set unique addresses for each screen, allowing me to control each eye independently with specific commands.
+To enhance the expressions and make them more charming, I carefully designed animation effects. This involved calculating and fine-tuning parameters in my code and iteratively adjusting them to achieve the desired look and smoothness.<br><br>
+The following images and screenshots illustrate part of this process. For example, I calculated parameters to shape the 'angry' eyes as a rectangular trapezoid. For the 'curious' expression, I experimented with different eye positions to create a lively and endearing appearance.
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 algorithm.png">
+<div align="center">calculating parameters to shape the angry eyes</div><br><br>
+
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 eye code.png">
+<div align="center">fine tuning codes' parameters to realize the best animation effect</div><br><br>
 
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 angry eye.png">
 <div align="center">angry eye</div><br><br>
