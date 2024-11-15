@@ -17,7 +17,7 @@ Here are some reference images of facial expressions created with Midjourney. Th
 </div><br><br>
 
 #### 1.2 Programming and Fine Tuning
-<img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 diagram.png">
+<img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 algo.png">
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 eye code.png">
 
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 angry eye.png">
