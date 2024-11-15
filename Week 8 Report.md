@@ -2,13 +2,25 @@
 ## Week of 10/18-10/24
 ### 1. Reflections
 
-This week, I focused on several aspects of the smart trash bin project, including system architecture design, sensor testing, mechanical component optimization, and servo functionality. Through these tasks, I enhanced my skills in both hardware design and software integration, achieving a functional and interactive system that effectively manages waste and provides real-time feedback to users. I learned how to optimize communication between sensors, microcontrollers, and the cloud, and I developed efficient code to handle the bin’s status updates based on input from ultrasonic and IMU sensors. This experience deepened my understanding of real-time data processing and practical aspects of sensor calibration and feedback systems.
+This week, I made significant progress in understanding the complexities of integrating hardware and software to create an interactive and autonomous system. What I learned included the intricate interactions required between various sensors, microcontrollers, and cloud services to create a responsive trash bin. I deepened my knowledge of system architecture design, cloud communication, and sensor calibration. Specifically, I learned how to use ultrasonic and IMU sensors effectively to monitor both the trash level and the stability of the bin, which are crucial for triggering accurate system responses.<br>
 
-#### Designing the Logic
-This week, I tried to use the Stemma QT in my system. I first weld the related circuit, and then realized the basic funtion of the two Stemma QT sensors: APDS and IMU. The feedback on serial monitor shows the software and hardware both being set well and worked well.
-<img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 diagram.png">
-<img width="1000" alt="Learning Rhino" src="assets/Week7/Expression Design.png">
-<img width="1000" alt="Learning Rhino" src="assets/Week7/Expression Design (2).png">
+How I learned these skills involved a combination of hands-on testing, iterative adjustments, and extensive reference to technical documentation. For example, testing different sensor placements and threshold settings helped me understand the real-time responsiveness of the system. I also consulted the Photon 2 reference guide to troubleshoot servo connectivity issues, which allowed me to ensure that the bin's mechanical movements were both smooth and reliable. This iterative process of learning through doing and refining based on results was essential in optimizing the bin’s responses.<br>
+
+Assessment of the current state of the work shows that the project is on a solid path toward achieving its objectives. The system architecture is fully designed and tested, and all primary components—sensor integration, cloud connectivity, and mechanical functionality—are functioning as expected. While there are still opportunities for further refinement, such as enhancing the bin’s emotional feedback for user engagement, the core functionalities are stable and reliable. This week’s progress has established a strong foundation, setting up the next stages of fine-tuning and expanding the bin's interactive features to create a more engaging and efficient waste management solution.<br><br>
+
+
+
+#### 1.1 Diagram Analysis
+
+
+System Architecture Diagram
+The System Architecture Diagram presents a high-level overview of the digital ecosystem that powers the smart trash bin. It identifies key components, including sensors, microcontrollers, cloud communication, and user interfaces, and represents the flow of information with directional arrows. For instance, data from the ultrasonic sensors (used for trash level detection) and the IMU sensor (used for posture monitoring) flows to the microcontroller, which triggers system responses based on the bin’s status (e.g., full, fallen). This data is then sent to the cloud, enabling real-time user notifications on both the web and user ends (through another Photon 2 and LED).
+
+Process Diagram
+The Process Diagram captures the flow of information through each stage of the project’s operation, from data collection to user interaction. It outlines key touchpoints such as trash detection, status monitoring, cloud data transmission, and user notifications. Each stage is labeled to highlight the sequence and logic of the system’s operation, illustrating how sensor inputs translate into outputs, such as robot facial expressions, movements, and user notifications on the web and user ends.
+
+Whole System Architecture
+The Whole System Architecture Diagram provides a more detailed look at the system, including cloud communication and data flow details that emphasize the feedback loop for system monitoring. It shows how data flows seamlessly from the robot to the cloud and back to the user, ensuring smooth and reliable alerts when the bin is full or tipped over. This closed-loop system enhances both functionality and usability, supporting real-time data transmission and responsive actions.
 
 
 ### 2. Speculations
