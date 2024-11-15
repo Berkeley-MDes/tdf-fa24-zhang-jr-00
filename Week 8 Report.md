@@ -24,6 +24,10 @@ The Whole System Architecture Diagram provides a more detailed look at the syste
 <img width="1000" alt="Learning Rhino" src="assets/W8 detailed system architecture.png">
 <div align="center">Detailed System Architecture</div><br><br>
 
+#### 1.2 Mechanical Design
+The mechanical system includes a linkage mechanism with two pivot points, two connection points, and three rigid links, enabling the robot to perform complex movements, such as opening its mouth and simulating “eating” with a single servo motor. The design emphasizes the testing, calibration, and refinement required to achieve precise and smooth movements, highlighting the mechanical sophistication of the smart trash bin.
+<img width="1000" alt="Learning Rhino" src="assets/W8 mechanical design.png">
+<div align="center">Mechanical Design</div><br><br>
 
 ### 2. Speculations
 
