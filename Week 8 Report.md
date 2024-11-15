@@ -29,6 +29,16 @@ The mechanical system includes a linkage mechanism with two pivot points, two co
 <img width="1000" alt="Learning Rhino" src="assets/W8 mechanical design.png">
 <div align="center">Mechanical Design</div><br><br>
 
+#### 1.3 Ultrasonic and IMU Sensor Testing
+To ensure accurate distance measurement and effective posture monitoring, I evaluated sensor placement and calibrated specific threshold values for the ultrasonic and IMU sensors. This process was crucial for reliable trash detection, waste capacity assessment, and posture monitoring. The included screenshot displays the parameter settings used to control the servo, demonstrating the adjustments made to achieve smooth and accurate motions during trash collection.
+<img width="1000" alt="Learning Rhino" src="assets/W8 servo code.png">
+<div align="center">Ultrasonic Parameter Settings to Control The Servo</div><br><br>
+
+#### 1.4 Servo Functionality Testing
+I experimented with various servo settings, ultimately setting optimal angles between 10-70 degrees to ensure smooth and responsive lid movements, enabling the robot to “eat” trash effectively. Additionally, I worked on connecting and controlling the servo with the Photon 2 board, as not all pins are compatible with servo control. The attached screenshot, referencing the Particle Photon guide, shows the steps I followed to attach the servo to a compatible pin and control its movement accurately, thus enhancing the mechanical functionality of the robot.
+<img width="1000" alt="Learning Rhino" src="assets/W8 servo code.png">
+<div align="center">Mechanical Design</div><br><br>
+
 ### 2. Speculations
 
 Looking ahead, I plan to refine the responsiveness of the facial expressions based on the data from the ultrasonic sensor. A future goal is to have the animations change dynamically based on detected distances, such as a surprised expression when an object is detected at a close range. Additionally, I aim to explore more complex animation patterns, such as multi-stage eye movements and detailed expressions. Integrating these features with the Photon 2's capabilities could lead to a more interactive and engaging robotic interface. The industry is increasingly focusing on human-like interactions in robotics, as highlighted in recent articles on adaptive user interfaces. Incorporating real-time data from sensors into responsive animations can position this project in line with these trends, improving user experience and functionality.
