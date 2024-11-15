@@ -11,10 +11,10 @@ Assessment of the current state of the work shows that the project is on a solid
 
 
 #### 1.1 Diagram Analysis
-
-
-System Architecture Diagram
 The System Architecture Diagram presents a high-level overview of the digital ecosystem that powers the smart trash bin. It identifies key components, including sensors, microcontrollers, cloud communication, and user interfaces, and represents the flow of information with directional arrows. For instance, data from the ultrasonic sensors (used for trash level detection) and the IMU sensor (used for posture monitoring) flows to the microcontroller, which triggers system responses based on the bin’s status (e.g., full, fallen). This data is then sent to the cloud, enabling real-time user notifications on both the web and user ends (through another Photon 2 and LED).
+<img width="1000" alt="Learning Rhino" src="assets/W8 system architecture.png">
+<div align="center">System Architecture Diagram</div><br><br>
+
 
 Process Diagram
 The Process Diagram captures the flow of information through each stage of the project’s operation, from data collection to user interaction. It outlines key touchpoints such as trash detection, status monitoring, cloud data transmission, and user notifications. Each stage is labeled to highlight the sequence and logic of the system’s operation, illustrating how sensor inputs translate into outputs, such as robot facial expressions, movements, and user notifications on the web and user ends.
