@@ -30,7 +30,8 @@ The mechanical system includes a linkage mechanism with two pivot points, two co
 <div align="center">Mechanical Design</div><br><br>
 
 #### 1.3 Ultrasonic and IMU Sensor Testing
-To ensure accurate distance measurement and effective posture monitoring, I evaluated sensor placement and calibrated specific threshold values for the ultrasonic and IMU sensors. This process was crucial for reliable trash detection, waste capacity assessment, and posture monitoring. The included screenshot displays the parameter settings used to control the servo, demonstrating the adjustments made to achieve smooth and accurate motions during trash collection.
+To ensure accurate distance measurement and effective posture monitoring, I carefully evaluated the placement of the ultrasonic and IMU sensors and calibrated specific threshold values for optimal functionality. This testing was essential for reliable trash detection, internal waste capacity assessment, and monitoring the robot’s posture. By running continuous tests, I determined reasonable parameter values that allow the robot to execute specific actions when the ultrasonic sensor detects trash within a certain range.<br>
+In particular, when the ultrasonic sensor detects waste within this defined range, the robot's code triggers the servo motor to perform coordinated movements, such as rotating the mechanical arm and opening the mouth. This process was refined through repeated testing (通过不断测试得出的合理数值), ensuring that the robot executes these movements smoothly and accurately whenever waste is detected. The screenshot displays the final parameter settings used for controlling the servo, demonstrating the fine-tuning necessary to achieve consistent and precise reactions during the trash collection process.
 <img width="1000" alt="Learning Rhino" src="assets/W8 servo code.png">
 <div align="center">Ultrasonic Parameter Settings to Control The Servo</div><br><br>
 
