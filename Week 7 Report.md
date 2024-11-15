@@ -21,8 +21,9 @@ Here are some reference images of facial expressions created with Midjourney. Th
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 eye code.png">
 
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 angry eye.png">
-<div align="center">angry eye</div>
+<div align="center">angry eye</div><br><br>
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 sad eye.png">
+<div align="center">sad eye</div><br><br>
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 curious eye.jpg">
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 smiling eye.jpg">
 
