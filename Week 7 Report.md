@@ -46,5 +46,7 @@ For the work, future efforts will likely concentrate on integrating real-time da
 
 Here is a relevant news/industry item: a recent development in this field is the work of Ex-Robots, a company based in Dalian, China, which has been creating humanoid robots with advanced facial expressions. By using custom software and AI algorithms, Ex-Robots has enabled its robots to mimic human facial movements accurately, enhancing expressiveness and interactivity. Currently displayed in museums, these robots are expected to find applications in healthcare and education, such as psychological counseling and services for children. Here is a link for the news: https://www.reuters.com/technology/chinas-ex-robots-develops-humanoids-with-enhanced-facial-movement-2024-06-11/?utm_source=chatgpt.com
 
+<img width="1000" alt="Learning Rhino" src="assets/Week7/W7 news image.jpg">
+<div align="center">A humanoid robot stands at the office of developer Ex-Robots in Dalian, Liaoning province, China June 6, 2024</div><br><br>
 
 In summary, the future of expressive robotics seems promising, with potential applications across various industries. As tools for designing and animating robot faces become more advanced and widely accessible, robots will likely become more intuitive and empathetic, bridging the gap between machine functionality and human emotion in a variety of professional and social settings.
