@@ -26,6 +26,7 @@ The following images and screenshots illustrate part of this process. For exampl
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 eye code.png">
 <div align="center">fine tuning codes' parameters to realize the best animation effect</div><br><br>
 
+The following pictures show the final result of the facial expressions. I used a Photon 2 to control two OLED screens, which serve as the robot's eyes. It has four dynamic facial expressions.
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 angry eye.png">
 <div align="center">angry eye</div><br><br>
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 sad eye.png">
