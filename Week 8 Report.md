@@ -37,8 +37,8 @@ In particular, when the ultrasonic sensor detects waste within this defined rang
 
 #### 1.4 Servo Functionality Testing
 I experimented with various servo settings, ultimately setting optimal angles between 10-70 degrees to ensure smooth and responsive lid movements, enabling the robot to “eat” trash effectively. Additionally, I worked on connecting and controlling the servo with the Photon 2 board, as not all pins are compatible with servo control. The attached screenshot, referencing the Particle Photon guide, shows the steps I followed to attach the servo to a compatible pin and control its movement accurately, thus enhancing the mechanical functionality of the robot.
-<img width="1000" alt="Learning Rhino" src="assets/W8 servo code.png">
-<div align="center">Mechanical Design</div><br><br>
+<img width="1000" alt="Learning Rhino" src="assets/W8 photon2 document.png">
+<div align="center">Photon2 Document</div><br><br>
 
 ### 2. Speculations
 
