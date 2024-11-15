@@ -25,7 +25,9 @@ Here are some reference images of facial expressions created with Midjourney. Th
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 sad eye.png">
 <div align="center">sad eye</div><br><br>
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 curious eye.jpg">
+<div align="center">curious eye</div><br><br>
 <img width="1000" alt="Learning Rhino" src="assets/Week7/Week7 smiling eye.jpg">
+<div align="center">smiling eye</div><br><br>
 
 ### 2. Speculations
 
