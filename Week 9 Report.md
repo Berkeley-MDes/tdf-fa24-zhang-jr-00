@@ -50,4 +50,4 @@ Future work in this area could explore more sophisticated user interactions, suc
 
 I also find a relevant industry example in this field: Recycle Track Systems (https://www.rts.com/), a company that leverages technology to enhance waste management efficiency. RTS utilizes artificial intelligence and a proprietary tracking system to provide hauling services for waste, recycling, organics, and bulk removal. Their system tracks materials as they travel to recycling or composting facilities, offering companies detailed reports on the amount of material recycled or composted. This approach not only improves operational efficiency but also promotes sustainability by ensuring proper waste diversion.
 <div align="center"><img width="1000" alt="Learning Rhino" src="assets/W9 rts.jpg"></div>
-<div align="center">Recycle Track Systems (RTS) User End</div><br><br>
+<div align="center">Recycle Track Systems (RTS) App</div><br><br>
