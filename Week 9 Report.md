@@ -28,7 +28,7 @@ Angry Mode: The robot looks visibly angry when overfilled with trash, encouragin
 <img width="1000" alt="Learning Rhino" src="assets/W9 5.png"><br>
 <div align="center">Angry Mode</div><br><br>
 
-Robot Full State - "WASTED": When full, the robot collapses on the web-end display with “WASTED” overlaid, clearly indicating it needs emptying.
+Robot Full State - "WASTED": When full, the robot will communicate with the web-end, indicating it needs emptying.<br>
 <img width="1000" alt="Learning Rhino" src="assets/W9 6.png"><br>
 <div align="center">Robot Full State</div><br><br>
 
@@ -36,7 +36,7 @@ Robot Eating Interaction (Web-end): On the web-end interface, the robot is shown
 <img width="1000" alt="Learning Rhino" src="assets/W9 7.png"><br>
 <div align="center">The robot was helped by human and smiled</div><br><br>
 
-Robot Full State - "WASTED": When the robot reaches full capacity, it collapses with “WASTED” overlaying the image on the web-end interface, signaling to users that it cannot accept more waste and needs to be emptied.
+Robot's Death: When the robot reaches full capacity, it collapses with “WASTED” overlaying the image on the web-end interface, signaling to users that it cannot accept more waste and needs to be emptied.
 <img width="1000" alt="Learning Rhino" src="assets/W9 8.png"><br>
 <div align="center">The robot was helped by human and smiled</div><br><br>
 
