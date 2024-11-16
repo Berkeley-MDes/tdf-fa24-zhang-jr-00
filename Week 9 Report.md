@@ -9,11 +9,13 @@ This week, I deepened my understanding of integrating multiple engineering disci
 The project is now in an advanced prototype stage, where the core functions are fully integrated and tested. The robot effectively responds to waste placement, activates emotional feedback, and sends real-time status updates to the cloud. These updates are communicated to a user-end Photon device, which triggers a blinking LED as a visual alert. Additionally, I developed a web-end interface where users can view animations that reflect the robot’s current state, such as “Eating” or “WASTED” when the bin is full. The robot's mechanical functionality is also optimized; it smoothly opens its lid when waste is detected and closes it upon completion, with emotional responses displayed based on the robot’s internal state (e.g., happy, angry, sad). Overall, the system demonstrates a user-friendly and engaging approach to waste management, encouraging users to dispose of trash responsibly.
 
 #### 1.3 Demonstrations and Outcomes
-User Depositing Waste: The robot detects waste when it is placed in its bin, preparing to “swallow” it. This highlights the effective use of the ultrasonic sensor in waste detection.
+Waste Collection Mode: When the robot detects waste, it will open its lid in response to waste detection, showing active engagement and response to user interaction.<br>
+<div align="center">
 <img width="500" alt="Learning Rhino" src="assets/W9 1.png">
 <img width="500" alt="Learning Rhino" src="assets/W9 2.png">
-<div align="center">User Depositing Waste</div><br><br>
-Waste Collection Mode: The robot opens its lid in response to waste detection, showing active engagement and response to user interaction.
+</div>
+<div align="center">Detecting The Waste and "Eating" It</div><br><br>
+
 Fallen Mode - "Ask for Help!": When tipped over, the IMU sensor detects this state, and the robot displays a sad expression, sending a notification to the user-end device to alert the user.
 Help Received - "Smiling!": The robot expresses happiness when helped upright, showcasing its emotional response to user actions.
 Angry Mode: The robot looks visibly angry when overfilled with trash, encouraging users to empty it promptly.
