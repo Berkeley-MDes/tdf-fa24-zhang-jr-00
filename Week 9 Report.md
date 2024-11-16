@@ -28,7 +28,7 @@ Angry Mode: The robot looks visibly angry when overfilled with trash, encouragin
 <img width="1000" alt="Learning Rhino" src="assets/W9 5.png"><br>
 <div align="center">Angry Mode</div><br><br>
 
-Robot Eating Interaction (Web-end): On the web-end interface, the robot is shown in an “eating” state with “Eating = 2” displayed at the top, and a banana peel in its mouth, symbolizing its waste collection action. This animation visually represents the robot’s engagement with waste placed in its compartment.
+Robot Eating Interaction (Web-end): I developed and tested the cloud component to enable real-time status updates for efficient bin capacity monitoring. This includes animations on the web interface and alerts like “robot is full” or “robot has fallen,” which are transmitted to a user-end Photon device. On the web-end interface, the robot is shown in an “eating” state with “Eating = 2” displayed at the top, and a banana peel in its mouth, symbolizing its waste collection action. This animation visually represents the robot’s engagement with waste placed in its compartment.
 <img width="1000" alt="Learning Rhino" src="assets/W9 7.png"><br>
 <div align="center">Robot Eating Interaction (Web-end)</div><br><br>
 
@@ -36,9 +36,9 @@ Robot's Death: When the robot reaches full capacity, it collapses with “WASTED
 <img width="1000" alt="Learning Rhino" src="assets/W9 8.png"><br>
 <div align="center">Robot's Death</div><br><br>
 
-Cloud and Cross-Device Communication: I developed and tested the cloud component to enable real-time status updates for efficient bin capacity monitoring. This includes animations on the web interface and alerts like “robot is full” or “robot has fallen,” which are transmitted to a user-end Photon device. An LED indicator provides visual feedback on the robot’s status. Using PuTTY, a serial communication tool, I identified and connected another Photon device to integrate these real-time updates effectively.
+Cloud and Cross-Device Communication: An LED indicator provides visual feedback on the robot’s status. Using PuTTY, a serial communication tool, I identified and connected another Photon device to integrate these real-time updates effectively.
 <img width="1000" alt="Learning Rhino" src="assets/W9 cloud.png"><br>
-<div align="center">Setting environement at Photon Cloud</div><br><br>
+<div align="center">Using PuTTy to search for the second Phonton 2</div><br><br>
 
 
 ### 2. Speculations
