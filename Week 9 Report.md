@@ -14,7 +14,7 @@ Waste Collection Mode: When the robot detects waste, it will open its lid in res
 <img width="500" alt="Learning Rhino" src="assets/W9 1.png">
 <img width="500" alt="Learning Rhino" src="assets/W9 2.png">
 </div>
-<div align="center">Detecting The Waste and "Eating" It</div><br><br>
+<div align="center">The robot detect the waste and then eat it</div><br><br>
 
 Fallen Mode - "Ask for Help!": When tipped over, the IMU sensor detects this state, and the robot displays a sad expression, sending a notification to the user-end device to alert the user.
 Help Received - "Smiling!": The robot expresses happiness when helped upright, showcasing its emotional response to user actions.
