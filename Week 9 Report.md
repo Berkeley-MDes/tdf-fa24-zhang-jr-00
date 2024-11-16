@@ -48,17 +48,6 @@ Future advancements in sensor technology, microcontrollers, and cloud connectivi
 #### 2.2 For the Work
 Future work in this area could explore more sophisticated user interactions, such as voice recognition, gesture detection, and dynamic emotional responses. For example, incorporating natural language processing could enable the robot to understand spoken commands, enhancing its interactivity and educational value. In public or commercial settings, the robot could engage users more actively, promoting waste disposal with encouraging messages or fun animations that make the experience more enjoyable. Additionally, more nuanced emotional expressions, possibly powered by machine learning, could allow the robot to adapt its responses based on user behavior, becoming “happier” when waste is disposed of correctly or showing “frustration” if left unattended. These developments could help foster a stronger connection between users and the robot, aligning with growing expectations that technology should be interactive, intuitive, and emotionally responsive.
 
-
-
-<img width="1000" alt="Learning Rhino" src="assets/W8 mechanical design.png">
-<div align="center">Mechanical Design</div><br><br>
-
-
-
-
-
-
-
-I also find a relevant industry example in this field: Recently, Bin-e(https://bine.world/), a Polish startup, developed a smart waste bin that uses AI for waste sorting and categorization, automatically identifying different types of waste for optimized disposal. Bin-e's technology combines sensors and AI processing to improve waste management efficiency, demonstrating how enhanced sensor integration and real-time data processing can transform waste disposal solutions. This development suggests a promising direction for similar projects, where smart bins not only categorize waste but also interact with users to improve waste disposal behavior. 
+I also find a relevant industry example in this field: Recycle Track Systems (https://www.rts.com/), a company that leverages technology to enhance waste management efficiency. RTS utilizes artificial intelligence and a proprietary tracking system to provide hauling services for waste, recycling, organics, and bulk removal. Their system tracks materials as they travel to recycling or composting facilities, offering companies detailed reports on the amount of material recycled or composted. This approach not only improves operational efficiency but also promotes sustainability by ensuring proper waste diversion.
 <div align="center"><img width="400" alt="Learning Rhino" src="assets/W8 bin-e.jpg"></div>
 <div align="center">Bin-e</div><br><br>
