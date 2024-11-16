@@ -36,7 +36,7 @@ Robot's Death: When the robot reaches full capacity, it collapses with “WASTED
 <img width="1000" alt="Learning Rhino" src="assets/W9 8.png"><br>
 <div align="center">Robot's Death</div><br><br>
 
-Cloud and Cross-Device Communication: An LED indicator provides visual feedback on the robot’s status. Using PuTTY, a serial communication tool, I identified and connected another Photon device to integrate these real-time updates effectively.
+Cloud and Cross-Device Communication: Phonton 2 Cloud is used to enable information uploading and also the communication of two Phonton 2 board. Using PuTTY, a serial communication tool, I identified and connected another Photon device to integrate these real-time updates effectively.
 <img width="1000" alt="Learning Rhino" src="assets/W9 cloud.png"><br>
 <div align="center">Using PuTTy to search for the second Phonton 2</div><br><br>
 
