@@ -16,8 +16,12 @@ Waste Collection Mode: When the robot detects waste, it will open its lid in res
 </div>
 <div align="center">The robot detect the waste and then eat it</div><br><br>
 
-Fallen Mode - "Ask for Help!": When tipped over, the IMU sensor detects this state, and the robot displays a sad expression, sending a notification to the user-end device to alert the user.
-Help Received - "Smiling!": The robot expresses happiness when helped upright, showcasing its emotional response to user actions.
+Fallen Mode - "Ask for Help!": When tipped over, the IMU sensor detects this state, and the robot displays a sad expression, sending a notification to the user-end device to alert the user.<br>
+<img width="500" alt="Learning Rhino" src="assets/W9 3.png">
+Help Received - "Smiling!": The robot expresses happiness when helped upright, showcasing its emotional response to user actions.<br>
+<img width="500" alt="Learning Rhino" src="assets/W9 4.png">
+
+
 Angry Mode: The robot looks visibly angry when overfilled with trash, encouraging users to empty it promptly.
 Robot Full State - "WASTED": When full, the robot collapses on the web-end display with “WASTED” overlaid, clearly indicating it needs emptying.
 Robot Eating Interaction (Web-end): On the web-end interface, the robot is shown in an “eating” state with “Eating = 2” displayed at the top, and a banana peel in its mouth, symbolizing its waste collection action. This animation visually represents the robot’s engagement with waste placed in its compartment.
