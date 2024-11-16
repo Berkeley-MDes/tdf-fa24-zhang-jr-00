@@ -14,19 +14,35 @@ Waste Collection Mode: When the robot detects waste, it will open its lid in res
 <img width="500" alt="Learning Rhino" src="assets/W9 1.png">
 <img width="500" alt="Learning Rhino" src="assets/W9 2.png">
 </div>
-<div align="center">The robot detect the waste and then eat it</div><br><br>
+<div align="center">The robot detected the waste and then ate it</div><br><br>
 
 Fallen Mode - "Ask for Help!": When tipped over, the IMU sensor detects this state, and the robot displays a sad expression, sending a notification to the user-end device to alert the user.<br>
 <img width="1000" alt="Learning Rhino" src="assets/W9 3.png"><br>
+<div align="center">The robot fell down and displayed a sad expression</div><br><br>
+
 Help Received - "Smiling!": The robot expresses happiness when helped upright, showcasing its emotional response to user actions.<br>
 <img width="1000" alt="Learning Rhino" src="assets/W9 4.png"><br>
-
+<div align="center">The robot was helped by human and smiled</div><br><br>
 
 Angry Mode: The robot looks visibly angry when overfilled with trash, encouraging users to empty it promptly.
+<img width="1000" alt="Learning Rhino" src="assets/W9 5.png"><br>
+<div align="center">Angry Mode</div><br><br>
+
 Robot Full State - "WASTED": When full, the robot collapses on the web-end display with “WASTED” overlaid, clearly indicating it needs emptying.
+<img width="1000" alt="Learning Rhino" src="assets/W9 6.png"><br>
+<div align="center">Robot Full State</div><br><br>
+
 Robot Eating Interaction (Web-end): On the web-end interface, the robot is shown in an “eating” state with “Eating = 2” displayed at the top, and a banana peel in its mouth, symbolizing its waste collection action. This animation visually represents the robot’s engagement with waste placed in its compartment.
+<img width="1000" alt="Learning Rhino" src="assets/W9 7.png"><br>
+<div align="center">The robot was helped by human and smiled</div><br><br>
+
 Robot Full State - "WASTED": When the robot reaches full capacity, it collapses with “WASTED” overlaying the image on the web-end interface, signaling to users that it cannot accept more waste and needs to be emptied.
+<img width="1000" alt="Learning Rhino" src="assets/W9 8.png"><br>
+<div align="center">The robot was helped by human and smiled</div><br><br>
+
 Cloud and Cross-Device Communication: I developed and tested the cloud component to enable real-time status updates for efficient bin capacity monitoring. This includes animations on the web interface and alerts like “robot is full” or “robot has fallen,” which are transmitted to a user-end Photon device. An LED indicator provides visual feedback on the robot’s status. Using PuTTY, a serial communication tool, I identified and connected another Photon device to integrate these real-time updates effectively.
+<img width="1000" alt="Learning Rhino" src="assets/W9 4.png"><br>
+<div align="center">The robot was helped by human and smiled</div><br><br>
 
 
 ### 2. Speculations
