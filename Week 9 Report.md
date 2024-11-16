@@ -10,6 +10,8 @@ The project is now in an advanced prototype stage, where the core functions are 
 
 #### 1.3 Demonstrations and Outcomes
 User Depositing Waste: The robot detects waste when it is placed in its bin, preparing to “swallow” it. This highlights the effective use of the ultrasonic sensor in waste detection.
+<img width="1000" alt="Learning Rhino" src="assets/W9 1.png">
+<div align="center">User Depositing Waste</div><br><br>
 Waste Collection Mode: The robot opens its lid in response to waste detection, showing active engagement and response to user interaction.
 Fallen Mode - "Ask for Help!": When tipped over, the IMU sensor detects this state, and the robot displays a sad expression, sending a notification to the user-end device to alert the user.
 Help Received - "Smiling!": The robot expresses happiness when helped upright, showcasing its emotional response to user actions.
