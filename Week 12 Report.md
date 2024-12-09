@@ -9,6 +9,7 @@ During the first week of the FaceStory project, our team focused on establishing
 We began by procuring various flex sensors from Amazon, experimenting with different lengths and structures to identify the most effective options for our application. This experimentation included testing multiple sensor placement methods on the neck—both vertically and horizontally—to determine which configuration best captures the subtle muscle movements associated with facial expressions. Using the Photon 2 microcontroller, we successfully integrated these sensors, allowing us to collect extensive datasets that accurately reflect muscle activity during different facial expressions.
 <div align=center><img width="500" alt="Learning Rhino" src="assets/Week12-13/sensor1.jpg"></div>
 <div align=center><img width="500" alt="Learning Rhino" src="assets/Week12-13/sensor2.jpg"></div>
+<div align=center><img width="1000" alt="Learning Rhino" src="assets/Week12-13/datacollection.jpg"></div>
 
 To ensure the reliability of our data, we employed Python for thorough data cleaning, removing any noise and inconsistencies that could impede model accuracy. With the cleaned data, we trained a Convolutional Neural Network (CNN) model, achieving an impressive accuracy rate of 99.14% in detecting and classifying facial expressions. This high level of accuracy validated our sensor setup and data processing pipeline, demonstrating the potential effectiveness of our machine learning approach in real-time expression detection.
 
