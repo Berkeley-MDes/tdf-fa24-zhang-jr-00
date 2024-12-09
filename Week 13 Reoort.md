@@ -4,7 +4,7 @@
 In this week, our focus transitioned to integrating the machine learning models with the Unity interface and exploring advanced features to enhance the user experience. A significant portion of our efforts was dedicated to implementing Google’s Face Landmark Detection as a tool to reconstruct a digital twin of the user. This involved connecting the facial expression data from our highly accurate CNN model with Unity to create an animated character that mirrors the user’s expressions in real-time.
 
 <div align=center><img width="1000" alt="Learning Rhino" src="assets/Week12-13/google.png"></div>
-<div align="center">This picture shows the API of Google Face Landmark we use</div>
+<div align="center">This picture shows the API of Google Face Landmark we use</div><br>
 By leveraging Google’s Face Landmark Detection, we accurately mapped facial landmarks and translated them into corresponding animations within Unity. This integration enables the digital twin to replicate the user’s facial expressions in real time, providing immediate visual feedback and making the rehabilitation process more engaging and interactive. The following two images showcase our Unity interface: when the user displays certain facial expressions, the digital twin responds accordingly, delivering real-time feedback to enhance the user’s experience.
 
 <div align=center><img width="1000" alt="Learning Rhino" src="assets/Week12-13/dt1.png"></div>
