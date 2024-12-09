@@ -20,8 +20,6 @@ Future developments for FaceStory include enhancing the digital twin's realism a
 
 A pertinent industry trend is the increasing use of AI-driven virtual assistants in healthcare applications, which aligns perfectly with our goal of creating an interactive and supportive rehabilitation tool. By leveraging these advancements, FaceStory can offer personalized therapy experiences that adapt to each user's unique needs and progress, ultimately improving rehabilitation outcomes.
 
-Figure 5: AI-driven personalized therapy programs enhancing patient engagement and outcomes.
-
 Furthermore, we intend to explore the integration of real-time user feedback mechanisms to dynamically adjust the difficulty and engagement level of the rehabilitation exercises. This will involve incorporating additional sensors and refining our machine learning models to better understand and respond to user needs in real-time.
 
 By continuously iterating on our design and incorporating cutting-edge technologies, FaceStory aims to revolutionize facial rehabilitation, making it more accessible, efficient, and enjoyable for patients with facial mobility challenges.
