@@ -1,9 +1,9 @@
 # Final Week: Report 13 #
 ## Week of 12/02-12/05
 ### 1. Reflections
-In the second week, our focus transitioned to integrating the machine learning models with the Unity interface and exploring advanced features to enhance the user experience. A significant portion of our efforts was dedicated to implementing Google’s Face Landmark Detection as a tool to reconstruct a digital twin of the user. This involved connecting the facial expression data from our highly accurate CNN model with Unity to create an animated character that mirrors the user’s expressions in real-time.
+In this week, our focus transitioned to integrating the machine learning models with the Unity interface and exploring advanced features to enhance the user experience. A significant portion of our efforts was dedicated to implementing Google’s Face Landmark Detection as a tool to reconstruct a digital twin of the user. This involved connecting the facial expression data from our highly accurate CNN model with Unity to create an animated character that mirrors the user’s expressions in real-time.
 
-Using Google’s Face Landmark Detection, we were able to accurately map facial landmarks and translate them into corresponding animations within Unity. This integration allows the digital twin to perform facial expressions that reflect the user’s inputs, providing immediate visual feedback and making the rehabilitation process more engaging and interactive.
+By leveraging Google’s Face Landmark Detection, we accurately mapped facial landmarks and translated them into corresponding animations within Unity. This integration enables the digital twin to replicate the user’s facial expressions in real time, providing immediate visual feedback and making the rehabilitation process more engaging and interactive. The following two images showcase our Unity interface: when the user displays certain facial expressions, the digital twin responds accordingly, delivering real-time feedback to enhance the user’s experience.
 <div align=center><img width="1000" alt="Learning Rhino" src="assets/Week12-13/dt1.png"></div>
 <div align=center><img width="1000" alt="Learning Rhino" src="assets/Week12-13/dt2.png"></div>
 
