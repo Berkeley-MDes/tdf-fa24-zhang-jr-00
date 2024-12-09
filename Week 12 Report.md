@@ -3,8 +3,8 @@
 ### 1. Reflections
 
 During the first week of the FaceStory project, our team focused on establishing the foundational components necessary for developing a medical rehabilitation product aimed at patients with facial movement loss due to neurological conditions. A significant portion of our efforts was dedicated to data collection and sensor integration. The following two diagrams show the comprehensive structure and workflow of the our project "FaceStory". The System Architecture Diagram depicts how the neck-mounted wearable device, equipped with flex sensors and the Photon 2 microcontroller, integrates with machine learning models and the Unity-based interactive game interface, including the ChatGPT API for adaptive storytelling. Meanwhile, the Process Diagram outlines the flow of data from sensor input and data cleaning through the CNN model for accurate expression detection, culminating in real-time user feedback via a digital twin in Unity. Together, these diagrams illustrate the seamless interaction between hardware and software components that enable an effective and engaging facial rehabilitation experience.
-<div align=center><img width="1000" alt="Learning Rhino" src="assets/Week12-13 Diagram1.png"></div>
-<div align=center><img width="1000" alt="Learning Rhino" src="assets/Week12-13 Diagram2.png"></div>
+<div align=center><img width="1000" alt="Learning Rhino" src="assets/Week12-13/Diagram1.png"></div>
+<div align=center><img width="1000" alt="Learning Rhino" src="assets/Week12-13/Diagram2.png"></div>
 
 We began by procuring various flex sensors from Amazon, experimenting with different lengths and structures to identify the most effective options for our application. This experimentation included testing multiple sensor placement methods on the neck—both vertically and horizontally—to determine which configuration best captures the subtle muscle movements associated with facial expressions. Using the Photon 2 microcontroller, we successfully integrated these sensors, allowing us to collect extensive datasets that accurately reflect muscle activity during different facial expressions.
 
