@@ -19,7 +19,7 @@ Despite these advancements, we encountered challenges in fine-tuning the digital
 
 
 
-<div align=center><img width="500" alt="Learning Rhino" src="assets/Week11 system process.png"></div>
+<div align=center><img width="500" alt="Learning Rhino" src="assets/Week12-13/Diagram 3.png"></div>
 
 <br><br>
 
